@@ -1,7 +1,7 @@
 title: 400
 description: Ramon's kinda blog, kinda rant.
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark
+  #remote_theme: jekyll/minima
+  #plugins:
+  #- jekyll-remote-theme
+  #minima:
+  #skin: dark
