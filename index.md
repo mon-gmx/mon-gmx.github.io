@@ -28,6 +28,8 @@ Now that I started the journey in a second place I notice kind of the same missi
 
 So yeah, besides all the fad, bloat, hate, overpay and frustration these places had before magic faded, they changed things to such an extent that even today where they are the eroded shells, it is still damn hard to catch up with what they built.
 
+Oh and those shells are going to be back in the game, I'm more than sure that the industry is reinventing itself and I am eager to see where this is all headed once the turmoil subsides.
+
 ### Zeitgeist (01/25)
 
 In the Zeitgeist of what seems to be a recurrent scenario where nobody wins, I browse eagerly through the news to figure out what's the next big deal. This week's big deal is China doing things the way it should be. A breakthrough with restricted resources, odds against, we ignore the big picture here: no meaningful paper being published the past decade has no Chinese authors in it. It's like Silicon Valley is oblivious to what the reality is and they race towards a doomsday of unplanned consequences. How good would AGI be when you have no means to give people a livelihood? I think from all scenarios China seems to be the best prepared nation to come up and trump over the rest in this race. I am not praising it though. I don't think this AI race should continue without a common end that is not profit, I think that's where America got all wrong and where at least their counterpart has a best chance of not starving their population by capturing that holy grail.
