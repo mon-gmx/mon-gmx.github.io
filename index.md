@@ -147,7 +147,19 @@ Recently I got this as feedback from an interview: _"Your internet connection se
 
 In the gist of many things going on lately around my own life I come close in contact with a lot of complaints about how things keep degrading in quality and surging in price and I keep reaching over and over again to the same conclusion: simple was, is and will always be better. Focusing on shells full of gimmicks tends to always have the same outcome yet we often just don't get it. I usually am triggered by buzzwords like _slice and dice_ or _democratize_ but I come to really sympathize with this one: _enshitification_.
 
-I like my code with zero boilerplate, my internet with zero quotas, my services with zero subscriptions and the list goes on. I am not against progress, progress is good, that's why cars are safer and phones are faster, yet this decade all we get are flashy pinatas solving no problem, but the problem created to keep the greedy appeased. I never realized how much I miss what is simple and reliable. Screw those flashy trims and non-sense all glued together gadgets, let's go back to simple, there's where beauty of crafting lies, that's where we have control.
+I despise:
+
+* Boilerplate in code
+* Quotas on internet
+* Subscriptions on features
+* Gig economies
+* Upgrades in purchases
+* Programmed obsolency
+* Pay to win
+* Paying to park at the supermarket
+* Things assembled with glue and plastic rivets
+
+... the list goes on. I am not against progress, progress is good, that's why cars are safer, phones are faster, and overall we live longer and healthier, yet this decade all we get are flashy pinatas solving no problem, but the problem created to keep the greedy appeased. I never realized how much I miss what is simple and reliable. Screw those flashy trims and non-sense all glued together gadgets, let's go back to simple, there's where beauty of crafting lies, that's where we have control.
 
 <div align="right">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PW9NV6T54Q"></script>
