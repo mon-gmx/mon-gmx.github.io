@@ -13,7 +13,7 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 ### Operations at large scale are complicated, culture is almost impossible (02/25)
 
-Throughout this journey I have noticed a big gap between big tech companies and the rest. Have I chosen wrong? Not sure, I learned a few things: changing jobs is a 2 way door, relocating, not so much.
+Throughout this journey I have noticed a big gap between big tech companies and the rest.
 
 Now, I must add a disclaimer here: I have only made it into one of those big tech places in my life; I could not complete my onsite with Google, I never made it past screening at Meta, and I hated the only time I dared to start a process with Netflix.
 Still I think, since these companies share some of their DNA considering people working for them move back and forth in between them, there is something that sets them apart from the rest other than the massive talent pool and revenue they generate: the culture they build around their infra is far beyond their competitors.
