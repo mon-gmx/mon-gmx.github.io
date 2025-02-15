@@ -148,5 +148,7 @@ In the gist of many things going on lately around my own life I come close in co
 
 I like my code with zero boilerplate, my internet with zero quotas, my services with zero subscriptions and the list goes on. I am not against progress, progress is good, that's why cars are safer and phones are faster, yet this decade all we get are flashy pinatas solving no problem, but the problem created to keep the greedy appeased. I never realized how much I miss what is simple and reliable. Screw those flashy trims and non-sense all glued together gadgets, let's go back to simple, there's where beauty of crafting lies, that's where we have control.
 
-<small> This site uses Google Analytics for the sole purpose of measuring visits </small>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PW9NV6T54Q"></script>
+<div align="right">
+  <small> This site uses Google Analytics for the sole purpose of measuring visits </small>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PW9NV6T54Q"></script>
+</div>
