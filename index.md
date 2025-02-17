@@ -157,4 +157,10 @@ Thins I despise:
 <div align="right">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PW9NV6T54Q"></script>
     <!-- added for measuring visits only -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-PW9NV6T54Q');
+    </script>
 </div>
