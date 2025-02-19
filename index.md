@@ -1,9 +1,10 @@
 All opinions I share here are my opinions, I don't mean any harm and my main interest is to vent out and well, share whatever is going on with my day to day, so yes, eventually I contradict myself.
 
-<small>
-  If you're still reading, my title is not misrendering and your visit is a datapoint in GA4, I promise that's all I collect.
-</small>
-
+<div align="right">
+  <small>
+    <i>If you're still reading, my title is not misrendering and your visit is a datapoint in GA4, I promise that's all I collect.</i>
+  </small>
+</div>
 
 ### About me
 
