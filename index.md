@@ -32,7 +32,7 @@ So what's the fuzz then? I think you should think about site reliability when yo
 
 Yes, those are corny terms, just like shift left, democratization and slice and dice, when used as buzz-words, all is shit. These three, if you please, can give you an insight on things you will care more when doing site reliability as a discipline though:
 
-- Profiling and resource utilization. Making the best use of the green papers and making sure the drop balls as often as your service agreements allow
+- Profiling and resource utilization. Making the best use of the green papers and making sure the ball drops as least as possible, ideally, below what agreements allow
 - Setting up capacity and redundance to make a site tolerant to the unavoidable failure. Site up over everything else
 - Have the means to understand a problem in a system effectively. Not just guessing or waiting for reports but seeing the failure cause and its effects
 
