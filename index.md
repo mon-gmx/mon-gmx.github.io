@@ -18,6 +18,8 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 ### A brief parenthesis on what makes SRE and DevOps different (02/25)
 
+[ktlon_]: ## "Keeping the lights on"
+
 I would come here and rant endlessly about these two terms being used interchangeably, but truth is, SRE is given whatever interpretation a hiring manager pulls out of their ass. Knowing the difference though, is useful because setting expectations is important.
 
 We could argue that both roles intersect. That's not wrong. From time to time one guy is doing the other's job and vice versa, but that's just how things are. A software engineer could cross those thresholds as well, no biggie.
@@ -36,7 +38,7 @@ Yes, those are corny terms, just like shift left, democratization and slice and 
 
 Other not less important criteria are covered into what this discipline does, e.g. testing for load and failure, but that can be correctly classified as a resiliency effort.
 
-So now you know. Tooling is good, but it is trivial, because if you talk site reliability, you don't talk about Kubernetes or Jenkins, you talk about keeping your site up, because you care about service levels, resource utilization and metrics... you focus on that stupid acronym of [KTLON](## keeping the lights on) (Fugly as it is)
+So now you know. Tooling is good, but it is trivial, because if you talk site reliability, you don't talk about Kubernetes or Jenkins, you talk about keeping your site up, because you care about service levels, resource utilization and metrics... you focus on that stupid acronym of [KTLON][ktlon_] (Fugly as it is)
 
 ### Operations at large scale are complicated, culture is almost impossible (02/25)
 
