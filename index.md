@@ -1,5 +1,10 @@
 All opinions I share here are my opinions, I don't mean any harm and my main interest is to vent out and well, share whatever is going on with my day to day, so yes, eventually I contradict myself.
 
+<small>
+  If you're still reading, my title is not misrendering and your visit is a datapoint in GA4, I promise that's all I collect.
+</small>
+
+
 ### About me
 
 I have been a computer systems engineer for the past two decades. I have some knowledge in things like Operating Systems Administration, Software Development, Infrastructure Engineering and Site Reliability. All those catchy terms just mean I can deal with computers at a large number (I can also play with raspberries), write code to run them and understand what it takes to keep them running for more than a day.
