@@ -152,7 +152,7 @@ Things I despise:
 * Upgrades in purchases
 * Programmed obsolescence
 * Paywalls
-* Menus behind QR codes 
+* Any document behind a QR code 
 * Pay to win
 * Paying to park at the supermarket
 * Things assembled with glue and plastic rivets
