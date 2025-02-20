@@ -42,7 +42,8 @@ Other not less important criteria are covered into what this discipline does, e.
 So now you know. Tooling is good, but it is trivial, because if you talk site reliability, you don't talk about Kubernetes or Jenkins, you talk about keeping your site up, because you care about service levels, resource utilization and metrics... you focus on that stupid acronym of [KTLON][ktlon_] (Fugly as it is).
 
 *- Oh this guy forgot to mention toil!*
-Nah, automation is fabulous, it eliminates a lot of waste and errors, but arguably, every single link in the delivery chain should have an appetite for not doing the same task twice. Feel free to disagree.
+
+Nah, automation is fabulous, it eliminates a lot of waste and errors, but arguably, every single link in the delivery chain should have an appetite for not doing the same task twice. So toil reduction should not be something for SRE's only. Feel free to disagree.
 
 
 ### Operations at large scale are complicated, culture is almost impossible (02/25)
