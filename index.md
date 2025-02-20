@@ -33,13 +33,17 @@ So what's the fuzz then? I think you should think about site reliability when yo
 
 Yes, those are corny terms, just like shift left, democratization and slice and dice, when used as buzz-words, all is shit. These three, if you please, can give you an insight on things you will care more when doing site reliability as a discipline though:
 
-- Profiling and resource utilization. Making the best use of the green papers and making sure the ball drops as least as possible, ideally, below what agreements allow
-- Setting up capacity and redundance to make a site tolerant to the unavoidable failure. Site up over everything else
+- Profiling and resource utilization. Making the best use of the green papers and making sure the ball drops as least as possible, ideally, below what agreements allow (SLA, SLO, SLI and all the jazz)
+- Setting up capacity and redundancy to make a site tolerant to the unavoidable failure. Site up over everything else
 - Have the means to understand a problem in a system effectively. Not just guessing or waiting for reports but seeing the failure cause and its effects
 
 Other not less important criteria are covered into what this discipline does, e.g. testing for load and failure, but that can be correctly classified as a resiliency effort.
 
 So now you know. Tooling is good, but it is trivial, because if you talk site reliability, you don't talk about Kubernetes or Jenkins, you talk about keeping your site up, because you care about service levels, resource utilization and metrics... you focus on that stupid acronym of [KTLON][ktlon_] (Fugly as it is).
+
+*- Oh this guy forgot to mention toil!*
+Nah, automation is fabulous, it eliminates a lot of waste and errors, but arguably, every single link in the delivery chain should have an appetite for not doing the same task twice. Feel free to disagree.
+
 
 ### Operations at large scale are complicated, culture is almost impossible (02/25)
 
