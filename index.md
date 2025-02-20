@@ -33,7 +33,7 @@ So what's the fuzz then? I think you should think about site reliability when yo
 
 Yes, those are corny terms, just like shift left, democratization and slice and dice, when used as buzz-words, all is shit. These three, if you please, can give you an insight on things you will care more when doing site reliability as a discipline though:
 
-- Performance and resource utilization. Making the best use of the green papers and making sure the ball drops as least as possible, ideally, below what agreements allow (SLA, SLO, SLI and all the jazz)
+- Performance (as in really how often your software does what is intended vs. how often it fails) and resource utilization. Making the best use of the green papers and making sure the ball drops as least as possible, ideally, below what agreements allow (SLA, SLO, SLI and all the jazz)
 - Setting up capacity and redundancy to make a site tolerant to the unavoidable failure. Site up over everything else
 - Have the means to understand a problem in a system effectively. Not just guessing or waiting for reports but seeing the failure cause and its effects
 
