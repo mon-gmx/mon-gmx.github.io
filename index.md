@@ -17,15 +17,6 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 ---
 
-### An ephemeral note... (02/25)
-
-I am adding this as a note that soon I'll drop because I need to save face, you know, you never know who's reading.
-
-Today I quit my job. The second in less than 6 months. All I can say is that besides feeling that my job had no impact to our organization, I think the impact that a score credit business has on society can actually harm it, and I really didn't want to be part of that. I like to believe that even when it is full of loons, my job at LinkedIn was trying to do good to society, at least that's what we were sold.
-And even if it didn't, it for sure changed my life. Thanks to that job I can still afford the supplies needed to treat my kid's T1D. I can take her to visit Japan this year. I reckon I would have never make that with a job from here. I am still holding into the bittersweetness of moving back, being trapped into the immigrant nightmare took away a lot from us, but it also gave us back a lot for our future. I missed the last minutes of my father by being waiting for a paper I didn't even want, but now thanks to that wait, I can bring back a kind of normal life to my kid. The irony huh?
-
-I wish I had the chance to give back, and I am just wasting time and knowledge trying to write another yaml file.
-
 ### A brief parenthesis on what makes SRE and DevOps different (02/25)
 
 [ktlon_]: ## "Keeping the lights on"
@@ -198,7 +189,8 @@ Things I despise:
 
 ... the list goes on. I am not against progress, progress is good, that's why cars are safer, phones are faster, and overall we live longer and healthier, yet this decade all we get are flashy pinatas solving no problem, but the problem created to keep the greedy appeased. I never realized how much I miss what is simple and reliable. Screw those flashy trims and non-sense all glued together gadgets, let's go back to simple, there's where beauty of crafting lies, that's where we have control.
 
-<pre>
+<small>
+  <pre>
 █████████████████████████████████████
 █████████████████████████████████████
 ████ ▄▄▄▄▄ █▀█ █▄▀▄▀  ▄▄██ ▄▄▄▄▄ ████
@@ -218,7 +210,8 @@ Things I despise:
 ████▄▄▄▄▄▄▄█▄▄██▄█▄██▄█▄█▄▄▄██▄██████
 █████████████████████████████████████
 █████████████████████████████████████
-</pre>
+  </pre>
+</small>
 
 <div align="right">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PW9NV6T54Q"></script>
