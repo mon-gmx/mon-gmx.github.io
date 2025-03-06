@@ -292,35 +292,53 @@ Time Complexity: O(n + m), Space Complexity: O(1).
 
 🎯 Summary Cheat Sheet
 
-|Pattern	|Use Case	|Example|
+|Pattern|Use Case|Example|
 |-----------|-----------|-------|
-|Left & Right Pointers	|Find a pair that meets a condition	|Two Sum (Sorted)
-|Fast & Slow Pointers	|Find cycles, modify arrays in place	|Detect Cycle, Remove Duplicates
-|Sliding Window	|Find min/max subarray that meets a condition	|Smallest Subarray Sum
-|Merge Pointers	| Merge two sorted lists efficiently	|Merge Sorted Arrays
+|Left & Right Pointers|Find a pair that meets a condition|Two Sum (Sorted)|
+|Fast & Slow Pointers|Find cycles, modify arrays in place|Detect Cycle, Remove Duplicates|
+|Sliding Window|Find min/max subarray that meets a condition|Smallest Subarray Sum|
+|Merge Pointers|Merge two sorted lists efficiently	|Merge Sorted Arrays|
 
 ---
 
 ## Data structures cheat-sheet
 
-| Name        | Description                                   | Use Cases                        | Pros                                     | Cons                                      | Python Implementation | Golang Implementation | ASCII Diagram | Popular Project |
+|Name   |Description                  |Use Cases           |Pros                    |Cons                     |Python Implementation|Golang Implementation|ASCII Diagram|Popular Project|
 |------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|---------------------|----------------------|----------------------|----------------------|
-| **Array** | Fixed-size or dynamic collection of elements stored in contiguous memory. | Storing ordered data, lookups, and iteration. | Fast lookups (O(1) for index-based access), simple implementation. | Slow insertions and deletions (O(n) in worst case). | `arr = [1, 2, 3]` | `arr := []int{1, 2, 3}` | `[1, 2, 3]` | NumPy
-| **Linked List** | Sequential collection of nodes, where each node points to the next. | Dynamic memory allocation, stacks, and queues. | Efficient insertions and deletions (O(1) at head/tail). | Slower lookups (O(n)). | `class Node: ...` | `type Node struct {...}` | `1 -> 2 -> 3` | Linux Kernel Scheduler 
-| **Doubly Linked List** | Each node has pointers to both previous and next nodes. | Efficient bidirectional traversal. | Easier deletion and insertion compared to singly linked lists. | Uses extra memory for pointers. | `class Node: ...` | `type Node struct {...}` | `1 <-> 2 <-> 3` | Web Browsers (Back/Forward) 
-| **Stack** | LIFO (Last-In, First-Out) structure. | Backtracking, function calls, undo functionality. | Fast operations (O(1) push/pop). | Limited access (only top element available). | `stack = []` | `var stack []int` | `Top -> 3 -> 2 -> 1` | Function Call Stack 
-| **Queue** | FIFO (First-In, First-Out) structure. | Task scheduling, BFS, buffering. | Fast enqueue/dequeue (O(1)). | Slow searching (O(n)). | `from collections import deque` | `var queue []int` | `1 -> 2 -> 3` | Print Spooler 
-| **Priority Queue (Heap)** | A queue where elements are dequeued based on priority. | Scheduling, shortest path algorithms. | Efficient min/max retrieval (O(1)), insert/delete (O(log n)). | Requires balancing operations. | `import heapq` | `import "container/heap"` | `  1  \n / \ \n3   5` | Dijkstra’s Algorithm 
-| **Skip List** | A linked list with hierarchical layers for fast searching. | Alternative to balanced trees. | O(log n) search, insert, delete. | Extra memory for multiple layers. | `class SkipList:` | `type SkipList struct {...}` | `1 -> 2 -> 3` | Redis 
-| **Fenwick Tree (BIT)** | Binary Indexed Tree for prefix sum queries. | Range sum queries in O(log n). | Space-efficient, fast updates. | Only works on cumulative data. | `class FenwickTree:` | `type FenwickTree struct {...}` | `[1,2,3]` | Competitive Programming 
-| **Segment Tree** | Tree structure for range queries and updates. | RMQ, range sums. | Fast range queries (O(log n)). | High memory usage. | `class SegmentTree:` | `type SegmentTree struct {...}` | `  5  \n / \ \n3   8` | Range Query Processing 
-| **Suffix Tree** | Compact trie of suffixes for string search. | Fast pattern matching. | O(m) search time. | High memory usage. | `class SuffixTree:` | `type SuffixTree struct {...}` | `root -> ab` | Bioinformatics (Genome Search) 
-| **Suffix Array** | Array of sorted suffixes. | String searching, text indexing. | More memory efficient than suffix trees. | Slower to construct. | `class SuffixArray:` | `type SuffixArray struct {...}` | `[0, 3, 5]` | Google Search Indexing 
-| **Disjoint Set (Union-Find)** | Tracks elements partitioned into sets. | Kruskal's MST, connectivity checks. | Fast union/find (O(α(n))). | Extra memory for parent pointers. | `class DisjointSet:` | `type DisjointSet struct {...}` | `{A: A, B: A}` | Kruskal’s MST 
-| **Van Emde Boas Tree** | Tree with fast integer key operations. | Fast membership testing. | O(log log n) operations. | Large memory overhead. | `class VEBTree:` | `type VEBTree struct {...}` | `root -> child` | Specialized Indexing 
-| **Ternary Search Tree** | Trie optimized for dictionary storage. | Autocomplete, spell checkers. | More space-efficient than tries. | Slower than hash tables. | `class TST:` | `type TST struct {...}` | `root -> a?b` | Spell Checkers 
-| **K-D Tree** | Spatial partitioning tree for multi-dimensional data. | Nearest neighbor search. | Efficient for k-dimensional queries. | Can become unbalanced. | `class KDTree:` | `type KDTree struct {...}` | `root -> (x,y)` | Computer Vision (Nearest Neighbor) 
-| **Count-Min Sketch** | Probabilistic frequency estimation. | Data stream analysis. | Space-efficient. | Possible overestimation. | `class CMSketch:` | `type CMSketch struct {...}` | `[010110]` | Network Traffic Analysis 
-| **Bloom Filter** | Probabilistic data structure for set membership testing. | Caching, avoiding unnecessary database queries. | Space-efficient. | False positives possible. | `import pybloom` | `github.com/willf/bloom` | `[010110]` | Google Bigtable 
-| **Inverted Index** | Mapping from content to its location in documents. | Search engines, full-text search. | Fast text searches. | Requires preprocessing. | `class InvertedIndex: ...` | `type InvertedIndex struct {...}` | `{word -> [docs]}` | Elasticsearch 
-| **Rainbow Table** | Precomputed hashes for fast password cracking. | Cryptanalysis, security auditing. | Speeds up hash cracking. | Requires significant storage. | `class RainbowTable:` | `type RainbowTable struct {...}` | `{hash -> password}` | Security Auditing 
+|**Array**|Fixed-size or dynamic collection of elements stored in contiguous memory.|Storing ordered data, lookups, and iteration.|Fast lookups (O(1) for index-based access), simple implementation.|Slow insertions and deletions (O(n) in worst case).|`arr = [1, 2, 3]`|`arr := []int{1, 2, 3}`|`[1, 2, 3]`|NumPy
+|**Linked List**|Sequential collection of nodes, where each node points to the next.|Dynamic memory allocation, stacks, and queues.|Efficient insertions and deletions (O(1) at head/tail).|Slower lookups (O(n)).|`class Node: ...`|`type Node struct {...}`|`1 -> 2 -> 3`|Linux Kernel Scheduler 
+|**Doubly Linked List**|Each node has pointers to both previous and next nodes.|Efficient bidirectional traversal.|Easier deletion and insertion compared to singly linked lists.|Uses extra memory for pointers.|`class Node: ...`|`type Node struct {...}`|`1 <-> 2 <-> 3`|Web Browsers (Back/Forward) 
+|**Stack**|LIFO (Last-In, First-Out) structure.|Backtracking, function calls, undo functionality.|Fast operations (O(1) push/pop).|Limited access (only top element available).|`stack = []`|`var stack []int`|`Top -> 3 -> 2 -> 1`|Function Call Stack 
+|**Queue**|FIFO (First-In, First-Out) structure.|Task scheduling, BFS, buffering.|Fast enqueue/dequeue (O(1)).|Slow searching (O(n)).|`from collections import deque`|`var queue []int`|`1 -> 2 -> 3`|Print Spooler 
+|**Priority Queue (Heap)**|A queue where elements are dequeued based on priority.|Scheduling, shortest path algorithms.|Efficient min/max retrieval (O(1)), insert/delete (O(log n)).|Requires balancing operations.|`import heapq`|`import "container/heap"`|`  1  \n / \ \n3   5`|Dijkstra’s Algorithm 
+|**Skip List**|A linked list with hierarchical layers for fast searching.|Alternative to balanced trees.|O(log n) search, insert, delete.|Extra memory for multiple layers.|`class SkipList:`|`type SkipList struct {...}`|`1 -> 2 -> 3`|Redis 
+|**Fenwick Tree (BIT)**|Binary Indexed Tree for prefix sum queries.|Range sum queries in O(log n).|Space-efficient, fast updates.|Only works on cumulative data.|`class FenwickTree:`|`type FenwickTree struct {...}`|`[1,2,3]`|Competitive Programming 
+|**Segment Tree**|Tree structure for range queries and updates.|RMQ, range sums.|Fast range queries (O(log n)).|High memory usage.|`class SegmentTree:`|`type SegmentTree struct {...}`|`  5  \n / \ \n3   8`|Range Query Processing 
+|**Suffix Tree**|Compact trie of suffixes for string search.|Fast pattern matching.|O(m) search time.|High memory usage.|`class SuffixTree:`|`type SuffixTree struct {...}`|`root -> ab`|Bioinformatics (Genome Search) 
+|**Suffix Array**|Array of sorted suffixes.|String searching, text indexing.|More memory efficient than suffix trees.|Slower to construct.|`class SuffixArray:`|`type SuffixArray struct {...}`|`[0, 3, 5]`|Google Search Indexing 
+|**Disjoint Set (Union-Find)**|Tracks elements partitioned into sets.|Kruskal's MST, connectivity checks.|Fast union/find (O(α(n))).|Extra memory for parent pointers.|`class DisjointSet:`|`type DisjointSet struct {...}`|`{A: A, B: A}`|Kruskal’s MST 
+|**Van Emde Boas Tree**|Tree with fast integer key operations.|Fast membership testing.|O(log log n) operations.|Large memory overhead.|`class VEBTree:`|`type VEBTree struct {...}`|`root -> child`|Specialized Indexing 
+|**Ternary Search Tree**|Trie optimized for dictionary storage.|Autocomplete, spell checkers.|More space-efficient than tries.|Slower than hash tables.|`class TST:`|`type TST struct {...}`|`root -> a?b`|Spell Checkers 
+|**K-D Tree**|Spatial partitioning tree for multi-dimensional data.|Nearest neighbor search.|Efficient for k-dimensional queries.|Can become unbalanced.|`class KDTree:`|`type KDTree struct {...}`|`root -> (x,y)`|Computer Vision (Nearest Neighbor) 
+|**Count-Min Sketch**|Probabilistic frequency estimation.|Data stream analysis.|Space-efficient.|Possible overestimation.|`class CMSketch:`|`type CMSketch struct {...}`|`[010110]`|Network Traffic Analysis 
+|**Bloom Filter**|Probabilistic data structure for set membership testing.|Caching, avoiding unnecessary database queries.|Space-efficient.|False positives possible.|`import pybloom`|`github.com/willf/bloom`|`[010110]`|Google Bigtable 
+|**Inverted Index**|Mapping from content to its location in documents.|Search engines, full-text search.|Fast text searches.|Requires preprocessing.|`class InvertedIndex: ...`|`type InvertedIndex struct {...}`|`{word -> [docs]}`|Elasticsearch 
+|**Rainbow Table**|Precomputed hashes for fast password cracking.|Cryptanalysis, security auditing.|Speeds up hash cracking.|Requires significant storage.|`class RainbowTable:`|`type RainbowTable struct {...}`|`{hash -> password}`|Security Auditing 
+
+---
+
+## Caching and eviction strategies
+
+|Name	|Type	|Description	|When to Use	|When Not to Use	|Where It Is Used	|Python Implementation|
+|-------|-------|---------------|---------------|-------------------|-------------------|--------------|
+|Write-Through|Caching Strategy|Writes data to both the cache and the backing store simultaneously.|When data consistency between cache and storage is crucial.|When high write latency is unacceptable.|Database caching, disk write caching.|Use a dictionary wrapper that updates both cache and DB.|
+|Write-Back|Caching Strategy|Writes to the cache first and updates the backing store later.|When reducing write latency is important.|When data loss due to cache failure is unacceptable.|CPU caches, storage controllers.|Use a background write thread with a queue.|
+|Write-Around|Caching Strategy|Writes directly to storage, bypassing the cache.|When write-heavy workloads exist, and cache pollution is a concern.|When read performance should be improved by keeping writes in cache.|Database storage caching.|Directly write to the DB while maintaining a read cache.|
+|Lazy Write|Caching Strategy|Writes to cache first and writes to storage only when evicted.|When minimizing writes is necessary and occasional data loss is tolerable.|When strong consistency is needed.|Web applications, database buffers.|Combine an LRU cache with background flushing.|
+|Least Recently Used (LRU)|Cache Eviction Policy|Removes the least recently accessed item first.|When recent data is more likely to be reused.|When all items have an equal chance of being accessed.|CPU caches, web browsers, Redis.|collections.OrderedDict or functools.lru_cache.|
+|Least Frequently Used (LFU)|Cache Eviction Policy|Removes the least frequently accessed item first.|When frequently accessed items are more important.|When access patterns are unpredictable.|Database caches, web servers.|Use a counter-based approach with a heap.|
+|First-In-First-Out (FIFO)|Cache Eviction Policy|Removes the oldest item first.|When freshness isn’t critical, but managing a fixed size is.|When newer items are more relevant.|Print spoolers, queue-based systems.|collections.deque or a simple list.|
+|Time-To-Live (TTL) Cache|Cache Eviction Policy|Removes items after a set expiration time.|When data has a fixed validity period.|When access frequency matters more than age.|Web caches, API rate limiting.|Use cachetools.TTLCache.|
+|Random Replacement (RR)|Cache Eviction Policy|Removes a random item when space is needed.|When all data has an equal chance of being used.|When some items are significantly more important.|Hardware caches, probabilistic caching.|random.choice() on a list or dictionary.|
+|Most Recently Used (MRU)|Cache Eviction Policy|Removes the most recently accessed item first.|When older data is more useful.|When recent access usually means higher relevance.|Specialized database caching.|Use a stack-based approach.|
+|Segmented LRU (SLRU)|Cache Eviction Policy|Combines LRU with multiple segments for better optimization.|When balancing short-term and long-term locality.|When memory constraints make multi-segmentation expensive.|High-performance storage systems.|Implement with two LRU caches.|
