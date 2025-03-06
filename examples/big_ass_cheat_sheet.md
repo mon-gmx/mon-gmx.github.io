@@ -294,10 +294,10 @@ Time Complexity: O(n + m), Space Complexity: O(1).
 
 |Pattern|Use Case|Example|
 |-----------|-----------|-------|
-|Left & Right Pointers|Find a pair that meets a condition|Two Sum (Sorted)|
-|Fast & Slow Pointers|Find cycles, modify arrays in place|Detect Cycle, Remove Duplicates|
-|Sliding Window|Find min/max subarray that meets a condition|Smallest Subarray Sum|
-|Merge Pointers|Merge two sorted lists efficiently	|Merge Sorted Arrays|
+|**Left & Right Pointers**|Find a pair that meets a condition|Two Sum (Sorted)|
+|**Fast & Slow Pointers**|Find cycles, modify arrays in place|Detect Cycle, Remove Duplicates|
+|**Sliding Window**|Find min/max subarray that meets a condition|Smallest Subarray Sum|
+|**Merge Pointers**|Merge two sorted lists efficiently	|Merge Sorted Arrays|
 
 ---
 
@@ -331,14 +331,28 @@ Time Complexity: O(n + m), Space Complexity: O(1).
 
 |Name	|Type	|Description	|When to Use	|When Not to Use	|Where It Is Used	|Python Implementation|
 |-------|-------|---------------|---------------|-------------------|-------------------|--------------|
-|Write-Through|Caching Strategy|Writes data to both the cache and the backing store simultaneously.|When data consistency between cache and storage is crucial.|When high write latency is unacceptable.|Database caching, disk write caching.|Use a dictionary wrapper that updates both cache and DB.|
-|Write-Back|Caching Strategy|Writes to the cache first and updates the backing store later.|When reducing write latency is important.|When data loss due to cache failure is unacceptable.|CPU caches, storage controllers.|Use a background write thread with a queue.|
-|Write-Around|Caching Strategy|Writes directly to storage, bypassing the cache.|When write-heavy workloads exist, and cache pollution is a concern.|When read performance should be improved by keeping writes in cache.|Database storage caching.|Directly write to the DB while maintaining a read cache.|
-|Lazy Write|Caching Strategy|Writes to cache first and writes to storage only when evicted.|When minimizing writes is necessary and occasional data loss is tolerable.|When strong consistency is needed.|Web applications, database buffers.|Combine an LRU cache with background flushing.|
-|Least Recently Used (LRU)|Cache Eviction Policy|Removes the least recently accessed item first.|When recent data is more likely to be reused.|When all items have an equal chance of being accessed.|CPU caches, web browsers, Redis.|collections.OrderedDict or functools.lru_cache.|
-|Least Frequently Used (LFU)|Cache Eviction Policy|Removes the least frequently accessed item first.|When frequently accessed items are more important.|When access patterns are unpredictable.|Database caches, web servers.|Use a counter-based approach with a heap.|
-|First-In-First-Out (FIFO)|Cache Eviction Policy|Removes the oldest item first.|When freshness isn’t critical, but managing a fixed size is.|When newer items are more relevant.|Print spoolers, queue-based systems.|collections.deque or a simple list.|
-|Time-To-Live (TTL) Cache|Cache Eviction Policy|Removes items after a set expiration time.|When data has a fixed validity period.|When access frequency matters more than age.|Web caches, API rate limiting.|Use cachetools.TTLCache.|
-|Random Replacement (RR)|Cache Eviction Policy|Removes a random item when space is needed.|When all data has an equal chance of being used.|When some items are significantly more important.|Hardware caches, probabilistic caching.|random.choice() on a list or dictionary.|
-|Most Recently Used (MRU)|Cache Eviction Policy|Removes the most recently accessed item first.|When older data is more useful.|When recent access usually means higher relevance.|Specialized database caching.|Use a stack-based approach.|
-|Segmented LRU (SLRU)|Cache Eviction Policy|Combines LRU with multiple segments for better optimization.|When balancing short-term and long-term locality.|When memory constraints make multi-segmentation expensive.|High-performance storage systems.|Implement with two LRU caches.|
+|**Write-Through**|Caching Strategy|Writes data to both the cache and the backing store simultaneously.|When data consistency between cache and storage is crucial.|When high write latency is unacceptable.|Database caching, disk write caching.|Use a dictionary wrapper that updates both cache and DB.|
+|**Write-Back**|Caching Strategy|Writes to the cache first and updates the backing store later.|When reducing write latency is important.|When data loss due to cache failure is unacceptable.|CPU caches, storage controllers.|Use a background write thread with a queue.|
+|**Write-Around**|Caching Strategy|Writes directly to storage, bypassing the cache.|When write-heavy workloads exist, and cache pollution is a concern.|When read performance should be improved by keeping writes in cache.|Database storage caching.|Directly write to the DB while maintaining a read cache.|
+|**Lazy Write**|Caching Strategy|Writes to cache first and writes to storage only when evicted.|When minimizing writes is necessary and occasional data loss is tolerable.|When strong consistency is needed.|Web applications, database buffers.|Combine an LRU cache with background flushing.|
+|**Least Recently Used (LRU)**|Cache Eviction Policy|Removes the least recently accessed item first.|When recent data is more likely to be reused.|When all items have an equal chance of being accessed.|CPU caches, web browsers, Redis.|collections.OrderedDict or functools.lru_cache.|
+|**Least Frequently Used (LFU)**|Cache Eviction Policy|Removes the least frequently accessed item first.|When frequently accessed items are more important.|When access patterns are unpredictable.|Database caches, web servers.|Use a counter-based approach with a heap.|
+|**First-In-First-Out (FIFO)**|Cache Eviction Policy|Removes the oldest item first.|When freshness isn’t critical, but managing a fixed size is.|When newer items are more relevant.|Print spoolers, queue-based systems.|collections.deque or a simple list.|
+|**Time-To-Live (TTL) Cache**|Cache Eviction Policy|Removes items after a set expiration time.|When data has a fixed validity period.|When access frequency matters more than age.|Web caches, API rate limiting.|Use cachetools.TTLCache.|
+|**Random Replacement (RR)**|Cache Eviction Policy|Removes a random item when space is needed.|When all data has an equal chance of being used.|When some items are significantly more important.|Hardware caches, probabilistic caching.|random.choice() on a list or dictionary.|
+|**Most Recently Used (MRU)**|Cache Eviction Policy|Removes the most recently accessed item first.|When older data is more useful.|When recent access usually means higher relevance.|Specialized database caching.|Use a stack-based approach.|
+|**Segmented LRU (SLRU)**|Cache Eviction Policy|Combines LRU with multiple segments for better optimization.|When balancing short-term and long-term locality.|When memory constraints make multi-segmentation expensive.|High-performance storage systems.|Implement with two LRU caches.|
+
+---
+
+## Load Balancer Strategies
+
+|Name|Description|When to Use|When Not to Use|Where It Is Used|Python Implementation|
+|----|-----------|-----------|---------------|---------------|---------------------|
+|**Round Robin**|Distributes requests evenly across all servers in sequence.|When all servers have equal capacity and performance.|When servers have varying workloads or performance levels.|DNS load balancing, simple web server clusters.|servers = ["A", "B", "C"]; i = 0; def get_server(): global i; server = servers[i % len(servers)]; i += 1; return server|
+|**Weighted Round Robi**n|Assigns different weights to servers based on capacity.|When servers have different processing power or bandwidth.|When traffic patterns are highly dynamic.|Cloud load balancers, CDNs.|weights = [3, 2, 1]; servers = ["A", "B", "C"]; from itertools import cycle; weighted_servers = sum([[s] * w for s, w in zip(servers, weights)], []); server_cycle = cycle(weighted_servers); def get_server(): return next(server_cycle)|
+|**Least Connections**|Routes requests to the server with the fewest active connections.|When some requests require long processing times.|When all requests are short-lived and equal in complexity.|API gateways, microservices.|import random; connections = {"A": 2, "B": 5, "C": 1}; def get_server(): return min(connections, key=connections.get)|
+|**IP Hashing**|Assigns a client to a specific server based on their IP address.|When session persistence is needed.|When IP-based load balancing is unnecessary or unfair.|Gaming servers, user authentication services.|import hashlib; servers = ["A", "B", "C"]; def get_server(ip): return servers[int(hashlib.md5(ip.encode()).hexdigest(), 16) % len(servers)]|
+|**Consistent Hashing**|Distributes requests based on a hash ring, reducing remapping when servers change.|When minimizing cache misses is critical.|When a simple round-robin approach suffices.|Distributed caching (Memcached, Redis), CDN routing.|from hashlib import md5; servers = ["A", "B", "C"]; def get_server(key): return servers[int(md5(key.encode()).hexdigest(), 16) % len(servers)]|
+|**Least Response Time**|Routes requests to the server with the fastest response time.|When response time varies significantly.|When all servers perform equally.|Web applications, API gateways.|response_times = {"A": 100, "B": 200, "C": 50}; def get_server(): return min(response_times, key=response_times.get)|
+|**Random**|Selects a random server for each request.|When simplicity is needed and servers are equally powerful.|When fairness and efficiency matter.|Simple load balancers, stateless applications.|import random; servers = ["A", "B", "C"]; def get_server(): return random.choice(servers)|
