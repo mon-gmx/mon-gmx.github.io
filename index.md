@@ -17,18 +17,31 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 ---
 
-### Focus is a privilege (03/25)
-
-I will keep polishing this post over time. I just want to say that focus nowadays is a privilege. Sometimes it is circumstantial, other times it is a decision. Sometimes it is both. In any case, focus is not a priority for most people, just like mental health, it is a highly disregarded state of mind that makes wonders yet for some weird reason, most people despise it and dare to say, stay away from it on purpose. I would like to make these lines a rant, but I think this is just me missing a lot of the things that I didn't appreciate much before.
+### I have to start by saying focus is a beautiful state of mind. Focus gets a marvelous amount of high quality things done. I would not think we would have classic music or high end computers without it. Focus is also a very expensive state of mind. It not only consumes a fair amount of resources from us, but it demands a very special set of conditions for it to thrive. No wonder focus is a rare and precious resource.
 
 
-Now that I am back into my hometown, I am deeply saddened by the lack of interest in having a quiet life. It is almost like people purposely choose chaos over calm, I frankly don't understand it and certainly don't appreciate it either. I come to believe that plaguing our life with noise and hectic rather than make it more vivid it just plunges us into a state of mind of distraction that evolves into a constant chase of conflict, because tranquility is never there and like the saying: "silence is golden", focus thrives where there is calm.
+Some societies are quite appreciative of it, they want it to flourish, and it really pays fostering it. However, focus is not cheap either. It requires both a substantial amount of time, a proper environment (including lighting and temperature) and isolation from distractions. The struggle will not end there when it is hard to differentiate between distractions and inspiration, where ends one and starts the other?
 
 
-This looks like I am complaining about how noisy my neighbors are, but I think this is just the tip of a big cultural problem, where we cannot appreciate the rest of our senses enough or just pursue a peaceful state of mind. However, this is not just about my hometown, it is about how we lose focus on a more hectic world and how this affects quality in everything we do and consume. It is also me just accepting that being in our zone is a rare state of mind that is being replaced purposely by a weird psychosis that produces no benefit but angst.
+Other societies, like mine, are quite dismissive in what it takes to achieve focus. The outcome is not great for them. We live plunged in a sea of distractions and noise that mistakenly is tagged as vivid or cheerful. There is a price to the lack of focus in life, a constant sense of underachievement, low quality of outcome and low productivity are few examples. Overall, living surrounded by what our ancestors called "mitote" is harmful. I wonder if sometimes this was purposely started by higher spheres in our society to keep people distracted. In places like my hometown, you are constantly bombarded by noise from the streets, bad news coming from every bad decision made and heatwaves. Overall, it is no wonder, countries like mine aren't capable of raising the quality of life of their inhabitants where fostering a healthy state of mind is not paramount.
 
 
-As someone who writes code and finds joy in doing it, I find a quiet place being paramount on my list of priorities for being productive, probably that’s why I prefer coding during the nights or early mornings, however, even when noise is not coming from outdoors, noise is coming from everywhere, to the point that I find myself often breaking my own pace because I got an alert from an app, because somebody on the other side of the world just cracked a joke or because the orange man just released a new statement, whatever reason it is, focus is fading and it is doing it fast. Is there a cure to it? I bet there is, but in a culture that disregards silence and favors chaos, we as a society have intentionally submerged our lives into what our ancestors described in a word: “mitote” and the price we pay is higher than we think.
+Why am I writing this? Why do I care?
+
+
+I think in our times, distractions are produced en masse. Not only that, they are delivered to us efficiently by a myriad of machines and media that can achieve it like never before, to the extent that we carry a town crier in our pockets. This is detrimental not only to our productivity, but to our mental health, after all, chaos and hectic drive us into a state of psychosis. There are studies sustaining that exposure to noise has adverse effects to cognitive domains, yet we disregard these warnings as irrelevant or too serious. If that's not enough, most thriving businesses are created around distractors, what's most ironic: we pay for it!
+
+
+In the software engineering world, there is a thing we call a flow, which basically is achieving a peak in our ability to focus on solving a problem. A flow is a fragile state of mind that can easily be disrupted and that we cannot bring back just as easily as we take out our phones and address an alert. There's nothing special about software engineering to be fair, I guess a music composer or a martial artist can achieve more with this state of mind, but I can only talk about what concerns me and probably come here and regret of a bunch of decisions I have made in my life that have deprived me of that privilege of having calm in my life.
+
+
+Is this reversible?
+
+
+I think reverting the damage noise and distractions make to our lives is becoming increasingly difficult, we make it that way. Quiet places are rare, distant, exclusive, and a healthy distance from technology is dubiously productive. As time progresses, the lack of achievements takes a toll on our cognitive capacity, thus affecting our skills, our health, our finances and overall hindering the ability to get into a place where we can focus more and deliver more. Quite like a destructive cycle.
+
+
+I will not draw a conclusion to these lines, simply, because I lost my flow.
 
 
 ### A brief parenthesis on what makes SRE and DevOps different (02/25)
