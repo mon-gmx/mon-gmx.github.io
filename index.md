@@ -17,7 +17,9 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 ---
 
-### I have to start by saying focus is a beautiful state of mind. Focus gets a marvelous amount of high quality things done. I would not think we would have classic music or high end computers without it. Focus is also a very expensive state of mind. It not only consumes a fair amount of resources from us, but it demands a very special set of conditions for it to thrive. No wonder focus is a rare and precious resource.
+### Focus is a privilege (03/25)
+
+I have to start by saying **focus is a beautiful state of mind**. Focus gets a marvelous amount of high quality things done. I would not think we would have classic music or high end computers without it. Focus is also a very expensive state of mind. It not only consumes a fair amount of resources from us, but it demands a very special set of conditions for it to thrive. No wonder focus is a rare and precious resource.
 
 
 Some societies are quite appreciative of it, they want it to flourish, and it really pays fostering it. However, focus is not cheap either. It requires both a substantial amount of time, a proper environment (including lighting and temperature) and isolation from distractions. The struggle will not end there when it is hard to differentiate between distractions and inspiration, where ends one and starts the other?
