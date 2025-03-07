@@ -17,6 +17,20 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 ---
 
+### Focus is a privilege (03/25)
+
+I will keep polishing this post over time. I just want to say that focus nowadays is a privilege. Sometimes it is circumstantial, other times it is a decision. Sometimes it is both. In any case, focus is not a priority for most people, just like mental health, it is a highly disregarded state of mind that makes wonders yet for some weird reason, most people despise it and dare to say, stay away from it on purpose. I would like to make these lines a rant, but I think this is just me missing a lot of the things that I didn't appreciate much before.
+
+
+Now that I am back into my hometown, I am deeply saddened by the lack of interest in having a quiet life. It is almost like people purposely choose chaos over calm, I frankly don't understand it and certainly don't appreciate it either. I come to believe that plaguing our life with noise and hectic rather than make it more vivid it just plunges us into a state of mind of distraction that evolves into a constant chase of conflict, because tranquility is never there and like the saying: "silence is golden", focus thrives where there is calm.
+
+
+This looks like I am complaining about how noisy my neighbors are, but I think this is just the tip of a big cultural problem, where we cannot appreciate the rest of our senses enough or just pursue a peaceful state of mind. However, this is not just about my hometown, it is about how we lose focus on a more hectic world and how this affects quality in everything we do and consume. It is also me just accepting that being in our zone is a rare state of mind that is being replaced purposely by a weird psychosis that produces no benefit but angst.
+
+
+As someone who writes code and finds joy in doing it, I find a quiet place being paramount on my list of priorities for being productive, probably that’s why I prefer coding during the nights or early mornings, however, even when noise is not coming from outdoors, noise is coming from everywhere, to the point that I find myself often breaking my own pace because I got an alert from an app, because somebody on the other side of the world just cracked a joke or because the orange man just released a new statement, whatever reason it is, focus is fading and it is doing it fast. Is there a cure to it? I bet there is, but in a culture that disregards silence and favors chaos, we as a society have intentionally submerged our lives into what our ancestors described in a word: “mitote” and the price we pay is higher than we think.
+
+
 ### A brief parenthesis on what makes SRE and DevOps different (02/25)
 
 [ktlon_]: ## "Keeping the lights on"
