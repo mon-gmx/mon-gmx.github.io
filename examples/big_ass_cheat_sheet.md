@@ -390,27 +390,27 @@ def kadane(arr):
 
 |Strategy|Pros|Cons|When to Use|Example Implementations|
 |--------|----|----|-----------|-----------------------|
-|Master-Slave Replication|Read scalability, backups offloaded to slaves|Writes go only to master, risk of lag|High read workloads, backup redundancy|MySQL, PostgreSQL (Streaming Replication)|
-|Master-Master Replication|Load balancing for writes, HA|Conflict resolution needed, complex setup|Write-heavy workloads needing HA|MySQL Group Replication, PostgreSQL BDR|
-|Logical Replication|Flexible table-level replication|Slower than streaming replication, lag|Selective data replication|PostgreSQL Logical Replication|
-|Physical (Streaming) Replication|Fast, real-time replication|Whole database replicated, no filtering|HA, disaster recovery|PostgreSQL Streaming Replication|
-|Asynchronous Replication|No performance penalty on master|Risk of data loss on failover|High-latency networks, eventual consistency|MySQL async replication, PostgreSQL async replication|
-|Synchronous Replication|Strong consistency, no data loss|Increased latency, impacts performance|Critical systems needing consistency|PostgreSQL synchronous replication, MySQL semi-sync|
-|Shared-Nothing Architecture (Sharding)|Extreme scalability, independent nodes|Complex, requires partitioning logic|Massive distributed databases|MongoDB, Google Spanner|
+|**Master-Slave Replication**|Read scalability, backups offloaded to slaves|Writes go only to master, risk of lag|High read workloads, backup redundancy|MySQL, PostgreSQL (Streaming Replication)|
+|**Master-Master Replication**|Load balancing for writes, HA|Conflict resolution needed, complex setup|Write-heavy workloads needing HA|MySQL Group Replication, PostgreSQL BDR|
+|**Logical Replication**|Flexible table-level replication|Slower than streaming replication, lag|Selective data replication|PostgreSQL Logical Replication|
+|**Physical (Streaming) Replication**|Fast, real-time replication|Whole database replicated, no filtering|HA, disaster recovery|PostgreSQL Streaming Replication|
+|**Asynchronous Replication**|No performance penalty on master|Risk of data loss on failover|High-latency networks, eventual consistency|MySQL async replication, PostgreSQL async replication|
+|**Synchronous Replication**|Strong consistency, no data loss|Increased latency, impacts performance|Critical systems needing consistency|PostgreSQL synchronous replication, MySQL semi-sync|
+|**Shared-Nothing Architecture (Sharding)**|Extreme scalability, independent nodes|Complex, requires partitioning logic|Massive distributed databases|MongoDB, Google Spanner|
 
 ---
 
 ## Write speeds in media
 
-|Storage Type|Write Speed (Approx.)|Pros|Cons|
-|------------|---------------------|----|----|
-|L1 Cache (CPU Register Level)|500–1000 GB/s|Ultra-low latency (~1ns), fastest memory|Extremely small (KBs), CPU-dependent|
-|L2 Cache|200–500 GB/s|Fast access, larger than L1|Still small, higher latency than L1|
-|L3 Cache|50–200 GB/s|Shared among cores, good for inter-core communication|Slower than L1/L2, limited size|
-|NVMe (PCIe SSD)|2000–7000 MB/s|Extremely fast, low latency, high IOPS|Expensive, requires PCIe lanes, limited capacity|
-|SATA SSD|200–600 MB/s|Fast, reliable, lower power consumption|More expensive than HDD, limited write cycles|
-|HDD (7200 RPM)|100–200 MB/s|Cheap, large capacity|Slow, high latency, mechanical failure risk|
-|HDD (5400 RPM)|50–120 MB/s|Power-efficient, quiet|Even slower than 7200 RPM HDDs|
-|Network Storage (NAS/SAN over 10GbE)|1–3 GB/s (depends on protocol & infra)|Scalable, accessible by multiple systems|Network bottlenecks, requires tuning for low latency|
-|Memory (RAM - DDR4/DDR5)|50–80 GB/s (DDR4), 100–200 GB/s (DDR5)|Extremely fast, near-zero latency|Volatile, expensive, limited capacity|
-|Persistent Memory (Optane, NVDIMM)|2–10 GB/s|Non-volatile, faster than SSDs|Expensive, niche use cases|
+|Storage Type|Write Speed (Approx.)|Pros|Cons|Best Use Cases|Avg. Cost per GB|
+|------------|---------------------|----|----|--------------|----------------|
+|**L1 Cache (CPU Register Level)**|500–1000 GB/s|Ultra-low latency (~1ns), fastest memory|Extremely small (KBs), CPU-dependent|CPU instruction execution, immediate calculations|Embedded in CPU|
+|**L2 Cache**|200–500 GB/s|Fast access, larger than L1|Still small, higher latency than L1|High-speed buffering between CPU and RAM|Embedded in CPU|
+|**L3 Cache**|50–200 GB/s|Shared among cores, good for inter-core communication|Slower than L1/L2, limited size|Multi-core processing, reducing RAM fetches|Embedded in CPU|
+|**NVMe (PCIe SSD)**|2000–7000 MB/s|Extremely fast, low latency, high IOPS|Expensive, requires PCIe lanes, limited capacity|High-performance databases, real-time analytics, gaming|$0.10–$0.25|
+|**SATA SSD**|200–600 MB/s|Fast, reliable, lower power consumption|More expensive than HDD, limited write cycles|OS storage, general workloads, cloud VM disks|$0.08–$0.15|
+|**HDD (7200 RPM)**|100–200 MB/s|Cheap, large capacity|Slow, high latency, mechanical failure risk|Large backups, archival storage, media storage|$0.02–$0.05|
+|**HDD (5400 RPM)**|50–120 MB/s|Power-efficient, quiet|Even slower than 7200 RPM HDDs|Cold storage, long-term backups, low-access data|$0.02–$0.04|
+|**Network Storage (NAS/SAN over 10GbE)**|1–3 GB/s (depends on protocol & infra)|Scalable, accessible by multiple systems|Network bottlenecks, requires tuning for low latency|Centralized storage, high-availability clusters|$0.05–$0.20 (depends on infra)|
+|**Memory (RAM - DDR4/DDR5)**|50–80 GB/s (DDR4), 100–200 GB/s (DDR5)|Extremely fast, near-zero latency|Volatile, expensive, limited capacity|Active workloads, caching, in-memory databases|$5–$10|
+|**Persistent Memory (Optane, NVDIMM)**|2–10 GB/s|Non-volatile, faster than SSDs|Expensive, niche use cases|Low-latency caching, hybrid memory systems|$10–$30|
