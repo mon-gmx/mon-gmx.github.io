@@ -1,6 +1,6 @@
 # Big Ass Cheat Sheet
 
-## Algorithm Cheat Sheet
+## Algorithms
 
 1️⃣ Backtracking (Subset Generation)
 
