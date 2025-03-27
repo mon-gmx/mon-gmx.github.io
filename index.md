@@ -19,10 +19,6 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 ---
 
-### Minding the gap (03/25)
-
-I had not much to talk about lately, but over a short period of time I heard a question related to giving feedback to junior engineers. While I have some generic rules like minding the limits (add them, they matter!) and being explicit in everything you do in your code (doesn't matter what people think of style, code has to be easy to read for everyone and I don't mean the clean code madness, I mean the make it easy to read and understand, the more I see the shit LLMs produce, the more keen I am about making efficient and readable code, not just one or the other and definitely avoid being the equivalent of an ego lifter), I think I have overseen more than once that there is a strong need to "mind the gap" between our tooling and what is consuming what we produce and viceversa. Long, long time ago, we could work in a string-out / string-in fashion when communicating data between our tools, but that's too simple and quite inefficient. Even before that, communication was all about bytes and custom made protocols and sockets, this was hard to get done right. Then we came to think about serialization and other means to transfer data, then we made a mess out of JSON and other "better" formats, but in this world where strong typed and dynamic typed processes collaborate, communicating them requires a fair amount of care and thought. Probably I have more to say about this, but nothing will replace these few items: mind the specs, mind the limits, mind the types, be structured, be explicit and be simple.
-
 ### Focus is a privilege (03/25)
 
 I have to start by saying **focus is a beautiful state of mind**. Focus gets a marvelous amount of high quality things done. I would not think we would have classic music or high end computers without it. Focus is also a very expensive state of mind. It not only consumes a fair amount of resources from us, but it demands a very special set of conditions for it to thrive. No wonder focus is a rare and precious resource.
