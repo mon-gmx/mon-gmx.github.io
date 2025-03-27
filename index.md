@@ -23,30 +23,21 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 I have to start by saying **focus is a beautiful state of mind**. Focus gets a marvelous amount of high quality things done. I would not think we would have classic music or high end computers without it. Focus is also a very expensive state of mind. It not only consumes a fair amount of resources from us, but it demands a very special set of conditions for it to thrive. No wonder focus is a rare and precious resource.
 
-
 Some societies are quite appreciative of it, they want it to flourish, and it really pays fostering it. However, focus is not cheap either. It requires both a substantial amount of time, a proper environment (including lighting and temperature) and isolation from distractions. The struggle will not end there when it is hard to differentiate between distractions and inspiration, where ends one and starts the other?
 
-
-Other societies, like mine, are quite dismissive in what it takes to achieve focus. The outcome is not great for them. We live plunged in a sea of distractions and noise that mistakenly is tagged as vivid or cheerful. There is a price to the lack of focus in life, a constant sense of underachievement, low quality of outcome and low productivity are few examples. Overall, living surrounded by what our ancestors called "mitote" is harmful. I wonder if sometimes this was purposely started by higher spheres in our society to keep lower classes from thriving; always distracted, always struggling. In places like my hometown, you are constantly bombarded by noise from all sources, the streets, the neighbors, the media (if you allow it into your house), job (trivial) struggles and gossips and cherry on top: heatwaves. Overall, it is no wonder, countries like mine aren't capable of raising the quality of life of their inhabitants where fostering a healthy state of mind is not paramount, we're so distracted that all we care is making it out just another day. Life is a constant struggle here, even worse, we chase conflict, as if poverty wasn't enough.
-
+Other societies, like mine, are quite dismissive in what it takes to achieve focus. The outcome is not great for them. We live plunged in a sea of distractions and noise that mistakenly is tagged as vivid or cheerful. There is a price to the lack of focus in life, a constant sense of underachievement, low quality of outcome and low productivity are few examples. Overall, living surrounded by what our ancestors called "mitote" is harmful. I wonder if sometimes this was purposely started by higher spheres in our society to keep lower classes from thriving; always distracted, always struggling. In places like my hometown, you are constantly bombarded by noise from all sources, the streets, the neighbors, the media (if you allow it into your house), job (trivial) struggles and gossip and cherry on top: heatwaves. Overall, it is no wonder, countries like mine aren't capable of raising the quality of life of their inhabitants where fostering a healthy state of mind is not paramount, we're so distracted that all we care about is making it out just another day. Life is a constant struggle here, even worse, we chase conflict, as if poverty wasn't enough.
 
 Why am I writing this? Why do I care?
 
-
 I think in our times, distractions are produced en masse. Not only that, they are delivered to us efficiently by a myriad of machines and media that can achieve it like never before, to the extent that we carry a town crier in our pockets. This is detrimental not only to our productivity, but to our mental health, after all, chaos and hectic drive us into a state of psychosis. There are studies sustaining that exposure to noise has adverse effects to cognitive domains, yet we disregard these warnings as irrelevant or too serious. If that's not enough, most thriving businesses are created around distractors, what's most ironic: we pay for it!
-
 
 In the software engineering world, there is a thing we call a flow, which basically is achieving a peak in our ability to focus on solving a problem. A flow is a fragile state of mind that can easily be disrupted and that we cannot bring back just as easily as we take out our phones and address an alert. There's nothing special about software engineering to be fair, I guess a music composer or a martial artist can achieve more with this state of mind, but I can only talk about what concerns me and probably come here and regret of a bunch of decisions I have made in my life that have deprived me of that privilege of having calm in my life.
 
-
 Is this reversible?
-
 
 I think reverting the damage noise and distractions make to our lives is becoming increasingly difficult, we make it that way. Quiet places are rare, distant, exclusive, and a healthy distance from technology is dubiously productive. As time progresses, the lack of achievements takes a toll on our cognitive capacity, thus affecting our skills, our health, our finances and overall hindering the ability to get into a place where we can focus more and deliver more. Quite like a destructive cycle.
 
-
 I will not draw a conclusion to these lines, simply, because I lost my flow.
-
 
 ### A brief parenthesis on what makes SRE and DevOps different (02/25)
 
@@ -75,7 +66,6 @@ So now you know. Tooling is good, but it is trivial, because if you talk site re
 *- Oh this guy forgot to mention toil!*
 
 Nah, automation is fabulous, it eliminates a lot of waste and errors, but arguably, every single link in the delivery chain should have an appetite for not doing the same task twice. So toil reduction should not be something for SRE's only. Feel free to disagree.
-
 
 ### Operations at large scale are complicated, culture is almost impossible (02/25)
 
@@ -108,7 +98,6 @@ I should stay shut and be happy for that then? I am on the winning side, right? 
 
 Anyway, the market is and will remain a tide of non-sense as it has been for the past lustrum. I expect nothing, but more of the same: Layoffs, a desperate fight to reduce capex and improve revenue.
 
-
 ### (public) Cloud computing fucking sucks (01/25)
 
 I could as well say people fucking suck, most of the issues from cloud computing come from the people running and using them after all. I'm ranting here because it is so damn common to see leaks coming from people who otherwise would have a room with a couple of racks gathering dust with old ass systems that just work when nobody comes with a great idea, except that, according to some C level jerk, the neckbeard maintaining those solid boxes is too expensive and all the people at the golf course talk about how amazing is to use Amazon cloud for their operations... then, the nightmare starts.
@@ -117,7 +106,6 @@ I come to ask myself how could we trust our infra to the most toxic company cult
 
 We are sold that we need to be ready to scale, hell, I have been an SRE for half a decade and I totally buy it, but not every business is the next Google, so why design thinking you will ever meet that workload is beyond my comprehension.
 Am I just yelling at a cloud? You bet! Distributed computing is fucking awesome. Compute on demand is fucking awesome. Global scale avaliabilty is fucking awesome. Orchestration and provisioning automation is fucking awesome. Those concepts are huge, we would have no large data analysis without them, we would have no GAI (and LLMs) without them and many of us would not even have a job without them. As concepts they are magnificent, but the Devil is in the details, right? You get a bunch of people building layers on top of layers and you end up with an obnoxious cake of complexity solving a smaller problem than the one it created by just existing. Not to mention how hard is to even get your hands on some decent hardware nowadays (good luck getting some Blackwell orders fulfilled). This is not great, especially for companies with zero innovation who will just use and pay the bills. Those poor bastards are the same who will leak a token into a Gitlab public account and get all their customers PII data leaked into the dark web or a stupid 4chan room (wink, wink). Guess what, settlements are fucking expensive. Ransom is fucking expensive. Changing your SSN is fucking expensive (in time). But well, this is our reality today and we learn to cope with it as we lay our hopes into ChatGPT giving us the fix to our last typo that caused a bill of ten quadrillions on unused API Gateway calls.
-
 
 ### Moving to RSS (01/25)
 
@@ -192,7 +180,6 @@ Capacity planning is a very interesting discussion; it requires knowing where yo
 ### My two cents on "coding" interviews (07/24)
 
 Yes I am one of those guys. I see no benefit to them other than stress the shit out of a person to no good end. I would say I am the same as happy doing these interviews as I am creating a 1 machine cluster using kubernetes. Two of the most enjoyable interview processes I had (and memorable since they really demanded more skills than memorizing algorithms or snooping over the answers tab) were with Klarna and Wizeline; Klarna asked me not only to provide complex functions but to actually write a service to query those functions and emit metrics for them (2 days given for the task) and Wizeline asked me to write a function in a language they invented so they could evaluate my ability to learn and work with what I learned (no guy on the other side of the terminal). I wish I could mention Apple, Amazon, Netflix, Google, Microsoft of Meta here, but nope, they all do the same silly handshake, so I dare to say that I don't see this inventive anywhere in big tech, I know, the process was created to pick the brightest, but just as with immigration, it is gamed and not fun at all. So this is the hill I choose to die on: leetcode is crap, I will always push back on it. Not saying puzzles are crap, they are not, they are fun and educational, but using them as the first step to filter out the competence of a candidate is silly, just like certifications.
-
 
 ### Is my connection the issue? (07/24)
 
