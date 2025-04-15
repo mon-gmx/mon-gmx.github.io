@@ -19,6 +19,16 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 ---
 
+### Two minute chores (04/25)
+
+I have been quite obsessed over a few years on this one topic. In our day to day we often struggle to get done more than what we have pending. Turns out a lot of that burden is composed by tiny tasks that we procrastinate, even worse, those tiny tasks are easy to steal the time of other tasks of the same size. I like to call 'em two minute chores and those little bastards are every-fucking-where.
+
+I bring the topic not because I have a clean strategy or because they are important for improving our mood (although the feeling of achievement often is a booster of our mood), I just think that being aware of these kind of little items is important to recognize them and flush them out quick, then we are better suited to take care of larger and more demanding tasks.
+
+If I could propose a rule on how to identify and tackle these tasks, it would be quite simple: if the task needs a small amount of effort, time and we know what to do from start to end, we should execute right away. There is conflict in doing this though (as always), sometimes a fair amount of chores is composed of these tiny blocks so we end up focusing on them and they steal away our attention from what matters. Is there an easy way to find balance? I'd say, just try to find these tasks in between larger activities, usually that's when they pop and that's when you can take care of them, right there!
+
+Is that it? well, you could say so, except, that often someone else will put more of those in your queue and well, now you have something else to do, that's yet another perk of a busy life.
+
 ### Focus is a privilege (03/25)
 
 I have to start by saying **focus is a beautiful state of mind**. Focus gets a marvelous amount of high quality things done. I would not think we would have classic music or high end computers without it. Focus is also a very expensive state of mind. It not only consumes a fair amount of resources from us, but it demands a very special set of conditions for it to thrive. No wonder focus is a rare and precious resource.
