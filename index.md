@@ -21,7 +21,7 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 ### Two minute chores (04/25)
 
-I have been quite obsessed over a few years on this one topic. In our day to day we often struggle to get done more than what we have pending. Turns out a lot of that burden is composed by tiny tasks that we procrastinate, even worse, those tiny tasks are easy to steal the time of other tasks of the same size. I like to call 'em two minute chores and those little bastards are every-fucking-where.
+I have been quite obsessed over a few years on this one topic. In our day to day we often struggle to get done more than what we have pending. Turns out a lot of that burden is composed by tiny tasks that we procrastinate, even worse, those tiny tasks are sneaky and get to steal the time of other tasks of the same size. I like to call them two minute chores and those little bastards are every-fucking-where.
 
 I bring the topic not because I have a clean strategy or because they are important for improving our mood (although the feeling of achievement often is a booster of our mood), I just think that being aware of these kind of little items is important to recognize them and flush them out quick, then we are better suited to take care of larger and more demanding tasks.
 
