@@ -1,5 +1,7 @@
 So here I may speak up on things that are bit controversial... or that's the idea anyway
 
+Corporate world withers your soul. Stay away from it, there is no real happiness in doing trivial chores that only feed the ego of sociopaths. You can do much better somewhere else, you don't need that car, you don't need that 2 stories house, you don't need that premium subscription, you don't need an overpriced latte.
+
 ### I think I was a DEI hire, and I am fine with it
 
 Basically that. Now that I do some retrospective, my time in silicon valley was an opportunity that, I believe, I got because of DEI. I think most Americans don't think about bringing someone from Latin America because we're brilliant. Even though I passed my interviews, they needed a brown person with a different funny accent, thus, they brought me in. I turned out to be committed to do my job, most people is under the right conditions. Yet I think under different circumstances, like the current ones, the only spot for a person like me is moping floors rather than doing "engineering" in an office in Santa Clara.
