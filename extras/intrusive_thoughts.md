@@ -1,3 +1,4 @@
+So here I may speak up on things that are bit controversial... or that's the idea anyway
 
 ### I think I was a DEI hire, and I am fine with it
 
