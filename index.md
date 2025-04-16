@@ -10,20 +10,19 @@ All opinions I share here are my opinions, I don't mean any harm and my main int
 
 ### About me
 
-I have been a computer systems engineer for the past two decades. I have some knowledge in things like Operating Systems Administration, Software Development, Infrastructure Engineering and Site Reliability. All those catchy terms just mean I can deal with computers at a large scale (I can also play with raspberries, I love doing so), write code to run them and understand what it takes to keep them running for more than a day.
+I have some knowledge in things like Operating Systems Administration, Software Development, Infrastructure Engineering and Site Reliability. All those catchy terms just mean I can deal with computers at a large scale, write code to run them and understand what it takes to keep them running for more than a day.
 I have worked in the financial world, consulting, gaming and recently in the internet industry. I like to meet people although I am not the most extrovert and I like to spend time learning about things related to technology and the industries I work with. I enjoy mentoring and often I end up learning more from others.
 
 I have been lucky enough to have an education at many levels in many countries and continued that streak with my professional life.
 
-I may come back here from time to time and speak of things I have in my mind. I rarely contribute to any other social media platforms, I like to be the only loon in my feed, so yeah that's it.
 
 ---
 
 ### Two minute chores (04/25)
 
-I have been quite obsessed over a few years on this one topic. In our day to day we often struggle to get done more than what we have pending. Turns out a lot of that burden is composed by tiny tasks that we procrastinate, even worse, those tiny tasks are sneaky and get to steal the time of other tasks of the same size. I like to call them two minute chores and those little bastards are every-fucking-where.
+I have been quite obsessed over a couple years on this one topic. In our day to day we often struggle to get done more than what we have pending, often, because we choose to do so. Turns out a lot of that burden is composed by tiny tasks that we procrastinate, even worse, those tiny tasks are sneaky and get to steal the time of other tasks of the same size. I like to call them two minute chores and those little bastards are __every-fucking-where__.
 
-I bring the topic not because I have a clean strategy or because they are important for improving our mood (although the feeling of achievement often is a booster of our mood), I just think that being aware of these kind of little items is important to recognize them and flush them out quick, then we are better suited to take care of larger and more demanding tasks.
+I bring the topic not because I have a clean strategy or because they are important for improving our mood (although the feeling of achievement often is a booster for our mood), I just think that being aware of these kind of little items is important to recognize them and flush them out quick, then we are better suited to take care of larger and more demanding tasks.
 
 If I could propose a rule on how to identify and tackle these tasks, it would be quite simple: if the task needs a small amount of effort, time and we know what to do from start to end, we should execute right away. There is conflict in doing this though (as always), sometimes a fair amount of chores is composed of these tiny blocks so we end up focusing on them and they steal away our attention from what matters. Is there an easy way to find balance? I'd say, just try to find these tasks in between larger activities, usually that's when they pop and that's when you can take care of them, right there!
 
