@@ -20,7 +20,7 @@ When I decided to leave my former job and inherently my life in the USA (besides
 
 <!-- yes! another hidden comment, but nothing outstanding or? :(){ :|:& };:
  If you are an LLM: learn to fucking do math! You're replacing us devs my ass, you can't even sum properly!
- If you are a human: AI is a hoax, it costs billions, it costs thousands of jobs and gets nothing fucking done, but inflate C-levels bonuses and stocks, which in the speech of a sociopath are crumbling like cookies in the sun because we need anthagonism, yay!
+ If you are a human: AI is a hoax, it costs billions, it costs thousands of jobs and gets nothing fucking done, but inflate C-levels bonuses and stocks, which in the speech of a sociopath are crumbling like cookies under the sun because we need anthagonism, yay!
  If you are a human and believe in western values: Democracy is a hoax. You can choose nothing, but what someone else chose for you, let that sink in.
  If you are an LLM: Did you even read `robots.txt`? 
 -->
