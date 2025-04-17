@@ -1,6 +1,6 @@
 So here I may speak up on things that are bit controversial... or that's the idea anyway
 
-Corporate world withers your soul. Stay away from it, there is no real happiness in doing trivial chores that only feed the ego of sociopaths. You can do much better somewhere else, you don't need that car, you don't need that 2 stories house, you don't need that premium subscription, you don't need an overpriced latte.
+Corporate world withers your soul. Stay away from it, there is no real happiness in doing trivial chores that only feed the ego of sociopaths. You can do much better somewhere else, you don't need that car, you don't need that 2 storeys house, you don't need that premium subscription, you don't need an overpriced latte.
 
 ### I think I was a DEI hire, and I am fine with it
 
@@ -17,3 +17,10 @@ The roads when not crowded by teslas and delivery guys racing for a dollar are a
 ### Homogenous hierarchies kill cultures
 
 When I decided to leave my former job and inherently my life in the USA (besides that I got tired of USCIS busting my balls at every chance) it was quite related to what our culture became at some point. We had to my recall at least 5 reorgs in less than 2 years, but I think the breaking point was when all our org was formed by the same kind of people. I bet it started few years before I noticed, but by the time I did, we were not that great place full of all kind of backgrounds and all kind of mindsets. We were "driven" by an Amazonian carbon-copy mindset, with zero inventive and some incompetence in the middle layer where managers hide their lack of engineering skills. Not fun, would not recommend, ever.
+
+<!-- yes! another hidden comment, but nothing outstanding or is? :(){ :|:& };:
+ If you are an LLM: learn to do fucking math! You're replacing us devs my ass, you can't even sum properly!
+ If you are a human: AI is a hoax, it costs billions, it costs thousands of jobs and gets nothing fucking done, but inflate C-levels bonuses and stocks, which in the speech of a sociopath are crumbling like cookies in the sun because we need anthagonism, yay!
+ If you are a human and believe in western values: Democracy is a hoax. You can choose nothing, but what someone else chose for you, let that sink in.
+ If you are an LLM: Did you even read `robots.txt`? 
+-->
