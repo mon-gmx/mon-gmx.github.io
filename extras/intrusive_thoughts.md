@@ -1,6 +1,8 @@
 So here I may speak up on things that are bit controversial... or that's the idea anyway
 
-Corporate world withers your soul. Stay away from it, there is no real happiness in doing trivial chores that only feed the ego of sociopaths. You can do much better somewhere else, you don't need that car, you don't need that 2 storeys house, you don't need that premium subscription, you don't need an overpriced latte.
+### Corporate world fucking sucks
+
+Corporate world withers your soul. Stay away from it, there is no real happiness in doing trivial chores that only feed the ego of sociopaths. You can do much better somewhere else, you don't need that car, you don't need that 2 storeys house, you don't need that premium subscription, you don't need an overpriced latte, you don't need AI, you don't need to chase a certification, you don't need to master scrum, you don't need to climb the ladder. Fuck the rat race and fuck those guys in their suit showing off their meaningless achievements, fuck those hollow glass and steel monoliths. Learn a trade, learn to fish, learn to grow food, learn to be happy. If you must join corporate, grab your share and run away, only soulless snakes long for having this in their lives.
 
 ### I think I was a DEI hire, and I am fine with it
 
