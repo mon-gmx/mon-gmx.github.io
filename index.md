@@ -225,7 +225,7 @@ Things I despise:
   {font-size: 0.8em;} 
 </style>
 
-```
+
 
 █████████████████████████████████████
 █████████████████████████████████████
@@ -247,7 +247,7 @@ Things I despise:
 █████████████████████████████████████
 █████████████████████████████████████
 
-```
+
 
 <div align="right">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PW9NV6T54Q"></script>
