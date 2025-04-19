@@ -222,7 +222,11 @@ Things I despise:
 
 <style>
   pre[class*=qr]
-  {font-size: 0.2em;} 
+  { 
+    font-size: 0.3em;
+    font-family: "courier new", courier, monospace;
+    white-space: pre-wrap !important;
+  }
 </style>
 
 <pre class="qr">
