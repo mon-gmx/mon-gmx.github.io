@@ -229,7 +229,8 @@ Things I despise:
   }
 </style>
 
-<pre class="qr">
+<div align="center">
+  <pre class="qr">
 
 █████████████████████████████████████
 █████████████████████████████████████
@@ -251,7 +252,8 @@ Things I despise:
 █████████████████████████████████████
 █████████████████████████████████████
 
-</pre>
+  </pre>
+</div>
 
 <div align="right">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PW9NV6T54Q"></script>
