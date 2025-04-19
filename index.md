@@ -226,6 +226,7 @@ Things I despise:
     font-size: 0.3em;
     font-family: "courier new", courier, monospace;
     white-space: pre-wrap !important;
+    filter: invert(1);
   }
 </style>
 
