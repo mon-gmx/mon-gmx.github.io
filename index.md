@@ -220,7 +220,13 @@ Things I despise:
 
 ... the list goes on. I am not against progress, progress is good, that's why cars are safer, phones are faster, and overall we live longer and healthier, yet this decade all we get are flashy pinatas solving no problem, but the problem created to keep the greedy appeased. I never realized how much I miss what is simple and reliable. Screw those flashy trims and non-sense all glued together gadgets, let's go back to simple, there's where beauty of crafting lies, that's where we have control.
 
+<style>
+  pre[class*=language-]
+  {font-size: 0.8em;} 
+</style>
+
 ```
+
 █████████████████████████████████████
 █████████████████████████████████████
 ████ ▄▄▄▄▄ █▀█ █▄▀▄▀  ▄▄██ ▄▄▄▄▄ ████
@@ -240,6 +246,7 @@ Things I despise:
 ████▄▄▄▄▄▄▄█▄▄██▄█▄██▄█▄█▄▄▄██▄██████
 █████████████████████████████████████
 █████████████████████████████████████
+
 ```
 
 <div align="right">
