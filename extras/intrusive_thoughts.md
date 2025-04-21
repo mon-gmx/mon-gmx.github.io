@@ -1,5 +1,17 @@
 So here I may speak up on things that are bit controversial... or that's the idea anyway
 
+### Disappointment
+
+I cannot claim I am a 10x anything. Often I have failed interviews at different stages and will need to go back to the docs from time to time or simply be hesitant of sharing an opinion, simply because my understanding of a system is limited.
+
+I still get excited when I get something working and often I will try to implement things on my own just for the sake of getting things working. No big fuzz around it. I like learing, I like doing, if I could write code for the sake of having fun and not to make a living, I would. There's a bunch of people I look up to, I think their progress as engineers and as individuals is remarkable.
+
+Despite this, I think that things are not what they used to be. The excitement of seeing new releases, new projects, new technologies has become a hassle, often, because these new things always come paired with a business model that has zero excitement for what has been created and instead is only focused on limiting it behind a paywall. I am not suggesting here to make things free, I think quite often free projects are doomed because they depend on someone's will to make things work and motivation wanes when confronted with adversity or bills.
+
+I think however making revenue the only drive has put us where we are. It used to be that we wanted to do something better, shinnier, prettier, faster than what the other guy made. Those days are gone. Focus nowadays is playing catchup with fads, making subscription plans, loading things with dependencies, creating dependencies and raise prices at a steady pace while making product quality a second thought.
+
+I don't have a project to showcase and say, here, we should go back to this. But I am confident that I am not alone here. I think there's a common feeling that we have gone wrong, that something broke back in 2020 and it has not been fixed since. There a feeling that whatever we wanted to achieve, has not been met, that we lost focus and that we are lost in a narrative that has not brought us anywhere but to a stage full of lies and bubbles. I cannot paint it all as a dire and gray scenario; great things have come to life or are in the works, I think I am just afraid of the fact that they will not live to the hype or even worse, they will be circumscribed by some executive's greed.
+
 ### Corporate world fucking sucks
 
 Corporate world withers your soul. Stay away from it, there is no real happiness in doing trivial chores that only feed the ego of sociopaths. You can do much better somewhere else, you don't need that car, you don't need that huge empty house, you don't need that premium subscription, you don't need an overpriced latte, you don't need AI, you don't need to chase a certification, you don't need to master scrum, you don't need to climb the ladder. Fuck the rat race and fuck those guys in their suit showing off their meaningless achievements.
