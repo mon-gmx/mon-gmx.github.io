@@ -20,7 +20,7 @@ I have been lucky enough to have an education at many levels in many countries a
 
 ### Understanding quantum computers (04/25)
 
-I have to start by saying that I know nothing about quantum computers or even understand Grover's algorithm. I know shit about qubits and medium that is actually useful packing them. So yeah, I know nothing. I often watch people talking about quantum computers and how they are powerful because the can compute larger numbers faster and that qubits are both _digital_ states at the same time. Yet, I don't think people creating content talking about quantum computers actually knows what is this all about, so in a nutshell, they are the same lost as I am, just they think they are not.
+I have to start by saying that I know nothing about quantum computers or even understand Grover's algorithm, or for that matter any other; I am super dumb in math, simple as that. I know shit about qubits and medium that is actually useful packing them. So yeah, I know nothing. I often watch people talking about quantum computers and how they are powerful because the can compute larger numbers faster and that qubits are both _digital_ states at the same time. Yet, I don't think people creating content talking about quantum computers actually knows what is this all about, so in a nutshell, they are the same lost as I am, just they think they are not.
 
 So trying to shed some light into my ignorance I was curious if I could actually figure out how quantum computers work and while I got a grasp on it, my explanation still has gaps and it is imperfect, so if you're reading this, you know by now I am no expert nor pretend to be one and this explanation I share just to keep this _imperfect_ understanding alive.
 
