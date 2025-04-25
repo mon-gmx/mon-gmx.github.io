@@ -10,7 +10,7 @@ Now, while I could rant and whine here for hours, I want to go back to the certi
 
 I will shy away to make the stupid statement that using LLMs we could get ahead of what a certification can give, because a) that's a lie and b) you need critical thinking and experience before you dare to take advice from a glorified chatbot, even though, I think there is no real need for quality experts, scrum masters, project management professionals and cloud engineers that know anything but writing stupid YAMLs and call APIs.
 
-Am I just jealous? Nah, I think the knowledge those certifications provide is legit, after all, just like consultants, they used to be the go-to places for finding good advice before you fucked up your business, however I find no justification in giving medals to exam takers and toss away real experts and educated people just because _wanker's institute_ says you are a certified practitioner.
+Am I just jealous? Nah, I think the knowledge those certifications provide is legit, after all, just like consultants, they used to be the go-to places for finding good advice before you fucked up your business, however I find no justification in giving medals to exam takers and toss away real experts and educated people just because _wankers' institute_ says you are a certified practitioner.
 
 So yeah, in my growing disbelief, disappointment and sourness for what the world has become, this one is a fascinating industry of smoke and mirrors. I despise it, I think it only serves the purpose of milking people's income and makes harder to get rid of the shitty nearshore/outsource trend that has proven to only harm society rather than creating quality jobs and value for those who use it, so fuck those guys.
 
