@@ -1,14 +1,14 @@
 So here I may speak up on things that are bit controversial... or that's the idea anyway
 
-### Circlejerking industry
+### Circle-jerking industry
 
 Back when I was finishing college, there were some certifications around to pick for us: SCJP and CCNA. Cisco certifications were seen like a status symbol, no idea why. Java certifications, were what most people were chasing. I personally despised Java, thanks to the moron that "taught" us the language using a BlueJ. So I never felt like trying it and to this day, Java is a big nope for me. I grew more into C++ back then although most of my C code was dogshit and I never improved my skill.
 
 Little I knew, that having a certification was key to get a job. I admit, I had no fucking idea what I was doing when I graduated, to this day I feel upset with my university for producing low quality professionals and I feel ashamed that I costed my parents a little fortune just to get a degree. Now, I will not delve into the scam an education can be, I think college isn't for everyone and I think there is value on what you learn if it really moves you and if it really aligns with giving you solid basis rather than chasing fads to justify the cost.
 
-Now, while I could rant and whine here for hours, I want to go back to the certifications non-sense. I would not care about it at this point in my life. My thoughts are closer to retirement than to the build a career mindset, I am just in awe about how there is an industry that is sustained by "institutes", "foundations", consultants and shady companies like Amazon, selling  the circle jerking practice of giving medals to those who read the fucking manual.
+Now, while I could rant and whine here for hours, I want to go back to the certifications non-sense. I would not care about it at this point in my life. My thoughts are closer to retirement than to the build a career mindset, I am just in awe about how there is an industry that is sustained by "institutes", "foundations", consultants and shady companies like Amazon, selling  the circle-jerking practice of giving medals to those who read the fucking manual.
 
-I will shy away to make the stupid statement that using LLMs we could get ahead of what a certification can give, because a) that's a lie and b) you need critical thinking and experience before you dare to take advice from a glorified chatbot, even though, I think there is no real need for quality experts, scrum masters, expert project managers and cloud engineers that know everything but write yamls and call APIs.
+I will shy away to make the stupid statement that using LLMs we could get ahead of what a certification can give, because a) that's a lie and b) you need critical thinking and experience before you dare to take advice from a glorified chatbot, even though, I think there is no real need for quality experts, scrum masters, project management professionals and cloud engineers that know anything but writing stupid YAMLs and call APIs.
 
 Am I just jealous? Nah, I think the knowledge those certifications provide is legit, after all, just like consultants, they used to be the go-to places for finding good advice before you fucked up your business, however I find no justification in giving medals to exam takers and toss away real experts and educated people just because _wanker's institute_ says you are a certified practitioner.
 
