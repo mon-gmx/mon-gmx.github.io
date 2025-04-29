@@ -32,7 +32,7 @@ Your lookup made it all the way to the gateway and no name to address is found y
 
 So the top level (TLD) will search its authoritative server for the domain name (`google`) and send the request there. Can I see this in my interface using `dig`?
 
-Kind of, try: `dig +trace -x -4 google.com` and you see it. If you happen to have your own Bind9 DNS you are going to get a more thorough view. Cherry on top? Add `strace` and see the syscalls by yourself.
+Kind of, try: `dig +trace -4 google.com` and you see it. If you happen to have your own Bind9 DNS you are going to get a more thorough view. Cherry on top? Add `strace` and see the syscalls by yourself.
 
 So assuming you have an address (in this case, likely an API gateway or a point of presence that will get you content via CDN), now what? And wait we were sending ARP broadcasts, was this part of it? Nope, these calls were UDP. Unless the response was so large or DNSSEC was involved or simply you used `-tcp`, the call is UDP.
 
