@@ -1,5 +1,25 @@
 So here I may speak up on things that are bit controversial... or that's the idea anyway
 
+### I liked it
+
+I liked linux, until docker came
+
+I liked python, until poetry came
+
+I liked automation, until chef came
+
+I liked containers, until kubernetes came
+
+I liked programming, until java came
+
+I liked frontend, until react came
+
+I liked devops, until jenkins came
+
+I liked machine learning, until LLMs came
+
+I liked servers, until cloud came
+
 ### Circle-jerking industry
 
 Back when I was finishing college, there were some certifications around to pick for us: SCJP and CCNA. Cisco certifications were seen like a status symbol, no idea why. Java certifications, were what most people were chasing. I personally despised Java, thanks to the moron that "taught" us the language using a BlueJ. So I never felt like trying it and to this day, Java is a big nope for me. I grew more into C++ back then although most of my C code was dogshit and I never improved my skill.

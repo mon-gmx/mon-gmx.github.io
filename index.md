@@ -18,18 +18,6 @@ I have been lucky enough to have an education at many levels in many countries a
 
 ---
 
-### I liked it (05/01)
-
-I liked linux, until docker came
-I liked python, until poetry came
-I liked automation, until chef came
-I liked containers, until kubernetes came
-I liked programming, until java came
-I liked frontend, until react came
-I liked devops, until jenkins came
-I liked machine learning, until LLMs came
-I liked servers, until cloud came
-
 ### When you open google in your browser (04/25)
 
 This is the first entry of what I will call: Tiny ass cheat sheet, where posts aren't going to be tiny, not reflective of anything going on with my life, yet I am trying to give some closure to some questions where either I bombed or had a _spirit de l'escalier_ moments.
