@@ -2,11 +2,11 @@ So here I may speak up on things that are bit controversial... or that's the ide
 
 ### I liked it
 
-I liked linux, until docker came
+I liked linux, until canonical came
 
 I liked python, until poetry came
 
-I liked automation, until chef came
+I liked automation, until puppet came
 
 I liked containers, until kubernetes came
 
@@ -14,7 +14,7 @@ I liked programming, until java came
 
 I liked frontend, until react came
 
-I liked devops, until jenkins came
+I liked continuous integration, until jenkins came
 
 I liked machine learning, until LLMs came
 
