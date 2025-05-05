@@ -18,6 +18,58 @@ I have been lucky enough to have an education at many levels in many countries a
 
 ---
 
+### Postmortems aren't easy (05/25)
+
+One of the best parts of being in an SRE team definitely is running a postmortem. It is also one of the hardest though. I was terribly sloppy when I started taking care of the task, and it was not until I was mentored by great engineers while running postmortem (kind of learned by doing and got scraped in the process, to anyone who I disappointed during my learning process, I am still sorry about the bad experience).
+
+A postmortem goes beyond trying to find the ugly truth and following a template, although, having a good template and a good postmortem document is a non-trivial task. A memorable postmortem is that one where you leave the room with conviction of: a) now you know way more than what you did when you wrote the document draft, b) your respect for your collaborators and their work has a new high and c) you're convinced you are going to make things better from that point. Truth is, this is not always achieved and especially point _c_ is a pain in the ass, because pressure on releasing new things is always pushing flaws downward in everyone's queue.
+
+So why are posmortems hard anyway? where is the process turning into something difficult?
+
+Postmortems are a blameless process (or they should be). Keeping it that way is a titanic effort. Nobody likes to hear their work is dogshit and their sloppyness caused an outage, disregard, those things happen and the process of figuring out what happened in detail, when done right, takes out all the dirt under the rugs and sometimes it gets ugly.
+
+Postmortems require a fair amount of effort, both because they require focus and they require to do an investigation fast. It serves no good to schedule a postmortem meeting a month after an incident happened, by then the world has moved on. So whoever is in charge of gathering people needs to do both a thorough investigation and organize a meeting with a similar sense of urgency to what it took to solve an incident that triggered a postmortem.
+
+Postmortems derail a ton of work. Incidents happen but making sure they don't come back require revisiting a lot of work and disrupt the release process of features, it demands commitment from engineering and product parties to prioritize site up above everything else. As any important decision, it is not free.
+
+I will steer a little bit here and talk about what is a postmortem anyway, how it is expected to go and what made a postmortem memorable in my experience. My experience is limited though, so this should be brief.
+
+When systems and infrastructure fail, the failure brings a learning opportunity. Organizations that follow an incident management practice will identify the steps to follow from the moment an incident is detected until it is resolved, however, the root cause of an incident is not always crystal clear and while in the old ITIL world closure would come after investigation, yet a thorough root cause analysis and long term remediation may remain unclear; probably that's why ITIL themselves formally introduced the process.
+
+The blameless postmortem process as a practice was popularized by Google when they introduced SRE and it is a powerful tool to understand what has gone wrong rather than figuring out who dropped the ball. As I mentioned this before it is easier said than done, egos and power dynamics (a.k.a. office politics redtape) often play against. I think that one of the best practices I witnessed when trying to make this blameless and a learning endeavor is keeping your organization values present, I think the reason why is because you already have a common goal which is honor those values and of course you have that fucking problem that stole away your sleep and hell, you want it gone!
+
+But how things flow exactly?
+
+```
+
+your system shits the bed
+     |
+     |____ you get alerted and you start an incident resolution process
+                 |
+                 |____ you find the source of the problem, you fix the problem
+                              |
+                              |____ you want to make sure this is not reocurring, you start investigating what happened indeed
+                                         |
+                                         |____ you document your findings and establish a timeline
+                                                    |
+                                                    |____ you bring together all stakeholders of the system | business
+                                                               |
+                                                               |____ you unearth the details of the incident and make sure you answer:
+                                                                        - what gone wrong
+                                                                        - what gone right
+                                                                        - where luck was on your side
+                                                                        - when it wasn't
+                                                                        - what could have been done to prevent it
+                                                                      |
+                                                                      |____ you identify all the broken parts of your system and process, agree to a fix, set a timeline and priority
+                                                                                |
+                                                                                |____ you follow up the fix process
+                                                                                       |
+                                                                                       |____ you recover your sleep... or maybe not
+```
+つづく
+
+
 ### When you open google in your browser (04/25)
 
 This is the first entry of what I will call: Tiny ass cheat sheet, where posts aren't going to be tiny, not reflective of anything going on with my life, yet I am trying to give some closure to some questions where either I bombed or had a _spirit de l'escalier_ moments.
