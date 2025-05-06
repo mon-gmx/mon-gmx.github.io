@@ -276,104 +276,11 @@ d /var/log/nginx 0755 www-data www-data -
 
 And just like that, I have kept my SD cards alive for close to two years. Probably with a v.5 this is not needed if you just use a NVMe, but that's not a cheap option when dealing with more than one board.
 
-### On frameworks and languages... and AI (12/24)
+<hr>
 
-Yes, this is one more of those posts. I was just exploring the whatabouts of FastAPI. I was interested in how hard or how easy it is to get it to work compared to Flask or Django 🤮
-I find that it is super easy to get it working and I really liked it, but to be fair, it still brings a bunch of dependencies that a language like Go just natively has (Go's tooling is slick). And that brought me to the questioning on why are frameworks proliferating at all? Not long ago I spent some time reading about the need to push back on things like React and come to believe that if JavaScript had offered a bunch of much needed functionality like async calls, a lot of these framework nightmares would simply not exist. Yes, JavaScript is a terrible example, but thinking about Java, well, it is not very different, and possibly the list just goes on because, well, if the language is complete, and getting things done does not require an obscene amount of code, do you really need the framework?
+### Older entries
 
-I don't have many friends I can bring on the conversation and ended up asking ChatGPT about this and well, it started using a lot the term "overengineering" which brought the conversation from Frameworks and language feature completeness to more weird concepts like cloud native applications and to even harder topics like accountability and why engineering is a very condescending word in a world of do as you go.
-
-Anyway FastAPI is nice, but old me thinks Golang is nicer, even when it has some weird traits.
-
-### Beware on what you learn... and what you skip learning (12/24)
-
-So I just came back from a two week trip. That means, it is time for me to shake up the rust. Well, not only I like to do that on my coding skills, but the design ones. I like putting about an hour daily to go through blogs or lately videos on design mocks and well, I found a full playlist with those and oh boy, some are so flawed that I just feel bad for those taking notes from them. I criticize without having a better recipe, yet I think there are some fundamentals you cannot just toss away and hope for a good result, e.g. if you design an API, you want to follow REST principles so your API is not your weakest link. Same I could say for data, caching and load balancing, they are mentioned but never brought into consideration on what could be their caveats or simply their strategies.
-
-When designing infrastructure, you must focus on two main factors: limits and capacity. Increasing capacity can reduce constraints, but resources are never infinite—especially budget. Capacity planning isn't just about a single component; a scalable system requires buffers to absorb load on key components and minimization of single points of failure to prevent widespread outages. Understanding limits and initial capacity is crucial (hence, [NALSD](https://sre.google/workbook/non-abstract-design/) exists), but a good design goes beyond that. You must consider the entire system—what makes each component a strong choice, when it stops being effective, and how the overall architecture can adapt over time.
-
-### Why ChatGPT is (for now) my best pair programming amigo (11/24)
-
-Using ChatGPT to code is like shooting at your own feet, except that IMO, it has been the best companion ever. I would guess co-pilot would be fairly efficient, but I am budget restricted to try it. Anyway, I find the capacity of bouncing ideas with the GAI a big up that if handled with care can boost productivity.
-Unlike using stackoverflow, which I despise, ChatGPT will lay the mines right under your feet. They will blow before you ship, which is a good thing to find out. If you are careful enough with what you ask for, with reading what you got served and with being critical to the response, probably you can get better code. Not saying it is easy though, GPT is terribly bad at getting good and consistent unit tests, however it is brilliant at providing useful mocks so that's a big tradeoff.
-So what am I suggesting here? Should you replace all your tools for using ChatGPT? Nah, but there are a few you for sure will want to get rid off: Google being the first one. If you can search through your prompt (hey, hey! just don't trust everything it says!), the only other thing you need is access to github (GPT is not actual and deprecated and bad code may be replied). So having the changelog, API descriptions and a peer that reviews your ideas is like a powerful trifecta, that in my case, has helped me ship at least 5 projects in less than a couple months. Am I grateful for it? You bet! Am I afraid it will replace me? Nah, it will get better when it can handle context and when that happens, I will be grateful for the transition 🤖💙
-I truly believe that it is a good mentor, but what's remarkable of all of this, is that if you pay close attention, you are setting the pace and you are reasoning with yourself, it is like looking into a warped mirror to get a fresh perspective of what you can actually do with a little more time and a better education.
-
-
-### A small parenthesis on capacity (09/24)
-
-I will start this one by posting a term I forgot to mention in a recent conversation: **load testing**
-
-Capacity planning is a very interesting discussion; it requires knowing where you're standing and where you're going. I just had a conversation where we discussed vertical vs. horizontal scaling. But the conversation can only start when you know where you are standing and for that understanding to happen, you need to know what are your current limits (limits are good, this is one of the most important lessons I have ever learned in my career), that's where load testing comes into play. Yes, you will add buffering in different layers to disperse the load and you will break the problem you try to solve to improve your ability to scale, but that is step number two.
-
-### My two cents on "coding" interviews (07/24)
-
-Yes I am one of those guys. I see no benefit to them other than stress the shit out of a person to no good end. I would say I am the same as happy doing these interviews as I am creating a 1 machine cluster using kubernetes. Two of the most enjoyable interview processes I had (and memorable since they really demanded more skills than memorizing algorithms or snooping over the answers tab) were with Klarna and Wizeline; Klarna asked me not only to provide complex functions but to actually write a service to query those functions and emit metrics for them (2 days given for the task) and Wizeline asked me to write a function in a language they invented so they could evaluate my ability to learn and work with what I learned (no guy on the other side of the terminal). I wish I could mention Apple, Amazon, Netflix, Google, Microsoft of Meta here, but nope, they all do the same silly handshake, so I dare to say that I don't see this inventive anywhere in big tech, I know, the process was created to pick the brightest, but just as with immigration, it is gamed and not fun at all. So this is the hill I choose to die on: leetcode is crap, I will always push back on it. Not saying puzzles are crap, they are not, they are fun and educational, but using them as the first step to filter out the competence of a candidate is silly, just like certifications.
-
-<!-- Ah look at you sneaky bastard! glad you found my comment, you want more spice in my non-sense? hit this one: extras/intrusive_thoughts... have a laugh, or not, I don't care, thanks for reading me.
-Cheers!
--->
-
-### Is my connection the issue? (07/24)
-
-Recently I got this as feedback from an interview: _"Your internet connection seems poor"_. I was concerned about it since I want to work remotely when the chance is there without driving my family crazy by hogging the network. I knew I had 150 symmetric Mbps, so what's wrong then? Well, I had no clue, but I could start by monitoring and a quick search got me this neat python library: [speedtest-cli](https://github.com/sivel/speedtest-cli/wiki), so the nerd in me took the chance to write a prometheus sensor and poll the metric constantly. I wrote a non-prod-ready **[gist](https://gist.githubusercontent.com/mon-gmx/8b70cc44a4bf37c0015db1000fb83abc/raw/24ab84640b7c25dc11d002b9940f59f6a8ce7dae/speed_test_sensors.py)** for that matter that paired to a systemd service got me monitoring my internet speed in no time. Now to what matters: it is not my connection the one that sucks, yes, it is slow by today's standards, but never degraded below the 90Mbps in any direction, and that's why data trumps everything and why observability is a must whenever dealing with problems where the root cause is not so evident. Will I dig further here? Hell yes, I have `iperf` measuring different latencies between different antennas (my network is simple: `modem -> router -> repeaters (mesh) -> computers`).
-
-![image](https://github.com/user-attachments/assets/cf43a151-92e6-4a1b-9288-5a0eeb6b94d1)
-
-### Simplicity is king in my world (02/24)
-
-In the gist of many things going on lately around my own life I come close in contact with a lot of complaints about how things keep degrading in quality and surging in price and I keep reaching over and over again to the same conclusion: simple was, is and will always be better. Focusing on shells full of gimmicks tends to always have the same outcome yet we often just don't get it. I usually am triggered by buzzwords like _slice and dice_ or _democratize_ but I come to really sympathize with this one: _enshitification_.
-
-Things I despise:
-
-* Boilerplate in code
-* Quotas on Internet
-* Subscriptions on features
-* Gig economies
-* Upgrades in purchases
-* Programmed obsolescence
-* Paywalls
-* Any document behind a QR code 
-* Pay to win
-* Paying to park at the supermarket
-* Things assembled with glue and plastic rivets
-
-... the list goes on. I am not against progress, progress is good, that's why cars are safer, phones are faster, and overall we live longer and healthier, yet this decade all we get are flashy pinatas solving no problem, but the problem created to keep the greedy appeased. I never realized how much I miss what is simple and reliable. Screw those flashy trims and non-sense all glued together gadgets, let's go back to simple, there's where beauty of crafting lies, that's where we have control.
-
-<style>
-  pre[class*=qr]
-  { 
-    font-size: 0.3em;
-    font-family: "courier new", courier, monospace;
-    white-space: pre-wrap !important;
-    filter: invert(1);
-  }
-</style>
-
-<div align="center">
-  <pre class="qr">
-
-█████████████████████████████████████
-█████████████████████████████████████
-████ ▄▄▄▄▄ █▀█ █▄▀▄▀  ▄▄██ ▄▄▄▄▄ ████
-████ █   █ █▀▀▀█ ▀█ ▀▀▄▄██ █   █ ████
-████ █▄▄▄█ █▀ █▀▀ ▀▀ ▄ ▄ █ █▄▄▄█ ████
-████▄▄▄▄▄▄▄█▄▀ ▀▄█▄█ █▄█ █▄▄▄▄▄▄▄████
-████▄  ▄▄█▄ ▄▄▀▄▀ ▄██ ▀▀  ▀ ▀▄█▄▀████
-████▄▀▄█▄▀▄▄██▄█▀██▄▄▄████▀ ▄▀█▀█████
-████  ▀▄▄▄▄  ▄▄█▄▄ ▄    ▀▀▀█▀▄▄█▀████
-████▄█  █▄▄██ █ ▄█▄  ▄██▀█▄▀█▄▄▀█████
-████ ▄ █ █▄▀▀ ▀▄▀ ▄▄▀▄▀▀ █▀▀▀▄ █▀████
-████ █▄▀█ ▄▄▀▄▀█▀█  ▀███▄ ▄ ██▄▀█████
-████▄█▄▄██▄▄  ██▄ ▄█▀ █▄ ▄▄▄ ▀   ████
-████ ▄▄▄▄▄ █▄█  ▄█▄ ██   █▄█ ▄▄▀▀████
-████ █   █ █ █ ▄▀▀█▄ ▄▀▀  ▄▄▄▀   ████
-████ █▄▄▄█ █ ███▀ ▄  █▄▄▀▄    ▄ █████
-████▄▄▄▄▄▄▄█▄▄██▄█▄██▄█▄█▄▄▄██▄██████
-█████████████████████████████████████
-█████████████████████████████████████
-
-  </pre>
-</div>
+[2024](./archive/2024.md)
 
 <div align="right">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PW9NV6T54Q"></script>
