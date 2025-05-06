@@ -43,29 +43,29 @@ But how do things flow exactly?
 ```
 
 your system shits the bed
-     |
-     |____ you get alerted and you start an incident resolution process
-                 |
-                 |____ you find the source of the problem, you fix the problem
-                              |
-                              |____ you want to make sure this is not reoccurring, you start investigating what happened indeed
-                                         |
-                                         |____ you document your findings and establish a timeline
-                                                    |
-                                                    |____ you bring together all stakeholders of the system | business
-                                                               |
-                                                               |____ you unearth the details of the incident and make sure you answer:
-                                                                        - what gone wrong
-                                                                        - what gone right
-                                                                        - where luck was on your side
-                                                                        - when it wasn't
-                                                                        - what could have been done to prevent it
-                                                                      |
-                                                                      |____ you identify all the broken parts of your system and process, agree to a fix, set a timeline and a priority
-                                                                                |
-                                                                                |____ you follow up the fixing process
-                                                                                       |
-                                                                                       |____ you recover your sleep... or maybe not
+  |
+  |____ you get alerted and you start an incident resolution process
+          |
+          |____ you find the source of the problem, you fix the problem
+                  |
+                  |____ you want to make sure this is not reoccurring, you start investigating what happened indeed
+                          |
+                          |____ you document your findings and establish a timeline
+                                  |
+                                  |____ you bring together all stakeholders of the system | business
+                                          |
+                                          |____ you unearth the details of the incident and make sure you answer:
+                                                   - what gone wrong
+                                                   - what gone right
+                                                   - where luck was on your side
+                                                   - where it wasn't
+                                                   - what could have been done to prevent it
+                                                  |
+                                                  |____ you identify all the broken parts of your system and process, agree to a fix, set a timeline and a priority
+                                                          |
+                                                          |____ you follow up the fixing process
+                                                                  |
+                                                                  |____ you recover your sleep... or maybe not
 ```
 
 Postmortem as a process peak when a meeting occurs. Memorable meetings are not those where people point fingers, but where people recognize things are broken and agree to fix things properly. Basically, a memorable postmortem is one where you agree to make things right. Sadly, not all leaders and top engineers want to go this way, tech debt is often what comes in exchange for moving fast, other people with dubious morals will do what they can to go unscathed or simply suggest sweeping things under the carpet. But even in the ugliness of these situations, great engineers rise, people calling out this as a deviation from your core values or simply owning the problem. When this happens, you realize not everything is rotten. Is this it? Just the old good vs evil? No advice here? Well, I can't spill the secret sauce, but basically try to run a meeting like this:
