@@ -1,20 +1,10 @@
 So here I may speak up on things that are bit controversial... or that's the idea anyway
 
-### I liked it
-
-I liked linux, until canonical came
-
 I liked python, until poetry came
-
-I liked automation, until puppet came
 
 I liked containers, until kubernetes came
 
-I liked programming, until java came
-
 I liked frontend, until react came
-
-I liked continuous integration, until jenkins came
 
 I liked machine learning, until LLMs came
 
@@ -22,7 +12,7 @@ I liked servers, until cloud came
 
 ### Circle-jerking industry
 
-Back when I was finishing college, there were some certifications around to pick for us: SCJP and CCNA. Cisco certifications were seen like a status symbol, no idea why. Java certifications, were what most people were chasing. I personally despised Java, thanks to the moron that "taught" us the language using a BlueJ. So I never felt like trying it and to this day, Java is a big nope for me. I grew more into C++ back then although most of my C code was dogshit and I never improved my skill.
+Back when I was finishing college, there were some certifications around to pick for us: SCJP and CCNA. Cisco certifications were seen like a status symbol, no idea why. Java certifications, were what most people were chasing. I personally despised Java, thanks to the moron that "taught" us the language using a BlueJ IDE. So I never felt like trying it and to this day, Java is a big nope for me. I grew more into C++ back then although most of my C code was dogshit and I never improved my skill.
 
 Little I knew, that having a certification was key to get a job. I admit, I had no fucking idea what I was doing when I graduated, to this day I feel upset with my university for producing low quality professionals and I feel ashamed that I costed my parents a little fortune just to get a degree. Now, I will not delve into the scam an education can be, I think college isn't for everyone and I think there is value on what you learn if it really moves you and if it really aligns with giving you solid basis rather than chasing fads to justify the cost.
 
