@@ -38,7 +38,7 @@ I don't have a project to showcase and say, here, we should go back to this. But
 
 ### Corporate world fucking sucks
 
-Corporate world withers your soul. Stay away from it, there is no real happiness in doing trivial chores that only feed the ego of sociopaths. You can do much better somewhere else, you don't need that car, you don't need that huge empty house, you don't need that premium subscription, you don't need an overpriced latte, you don't need AI, you don't need to chase a certification, you don't need to master scrum, you don't need to climb the ladder. Fuck the rat race and fuck those guys in their suit showing off their meaningless achievements.
+Corporate world withers your soul. Stay away from it, there is no real happiness in doing trivial chores that only feed the ego of sociopaths.
 
 ### I think I was a DEI hire, and I am fine with it
 
