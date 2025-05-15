@@ -18,7 +18,7 @@ I have been lucky enough to have an education at many levels in many countries a
 
 ---
 
-### Yes, you are the 'I' in AI
+### Yes, you are the 'I' in AI (05/25)
 
 This week is closing with yet more breaking news about a Tech Giant laying off people at mass. The reason, as usual in this decade, to free up resources for AI (they say to heavily invest yadah yadah, but they can't pull money out of their ass). What is intriguing to me is, to what benefit? I will speak from my own ignorance as usual, but I want to make a couple statemets before I let it loose: 1. Us IT workers are overpaid, yes, we make wonders that nobody can quantify and that are only useful to those connected to a computer, and 2. AI is garbage.
 
