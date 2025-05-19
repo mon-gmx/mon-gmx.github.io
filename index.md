@@ -34,6 +34,8 @@ In the pursuit of what I could do, I lost sight of what I needed to do and what 
 
 So this is it, I ended up re-imaging the damn thing, installing cups, installing the driver it needs, adding a script to a cron job and removing the rest of the array of machines. Was it the simplest option I had? Hell no, I could buy myself a printer with wifi, or just plug the cord into the laptop where I wanted to print, but this one does the trick and costed me 10 minutes of my time, the rest, I give it back to where it matters, spending time with the people I care about.
 
+![printer](https://github.com/user-attachments/assets/d2c2f61a-5e78-473e-8add-501e7974b3de)
+
 ### Yes, you are the 'I' in AI (05/25)
 
 This week is closing with yet more breaking news about a Tech Giant laying off people at mass. The reason, as usual in this decade, to free up resources for AI (they say to heavily invest yadah yadah, but they can't pull money out of their ass). What is intriguing to me is, to what benefit? I will speak from my own ignorance as usual, but I want to make a couple statemets before I let it loose: 1. Us IT workers are overpaid, yes, we make wonders that nobody can quantify and that are only useful to those connected to a computer, and 2. AI is garbage.
