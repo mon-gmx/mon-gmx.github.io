@@ -18,6 +18,8 @@ I have been lucky enough to have an education at many levels in many countries a
 
 ---
 
+### The Mexican challenge
+
 ### Simplicity is king in my world (05/25)
 
 I think this title was used in the first entry I added to this page, and well, I am reusing it... for reasons.
