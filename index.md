@@ -18,7 +18,16 @@ I have been lucky enough to have an education at many levels in many countries a
 
 ---
 
-### The Mexican challenge
+### The Mexican challenge (05/25)
+
+I was in a struggle on what to write about today, mostly because I feel like revisiting a couple recent events, but I think I can focus on what I'm closer to, thus, I chose my country's situation. Still I will try to touch the second option. I would like to say I am _flabbergasted, outraged, jaded, disappointed_, but I think the only feeling I have is boredom from recent events from big tech and their AI everything. Not that their products aren't being polished and cutting edge for anything related to entertainment, it is just that they are not really talking about novelty, from my perspective, they are just focused on establishing a platform where they can keep pumping the concept hoping for a breakthrough to actually come eventually in some kind of serendipitous way. I'm sceptic at best that this is actually going to happen and I scratch my head wondering if artificial general intelligence is really the end goal, why isn't anybody pooling resources to make it happen? I mean, is their greed such that they prefer to try eating the whole pie even if it never comes over just sharing a slice? No wonder AI's impact on people's lives has not been a net positive. I have stated it before, the progress in language processing, summarization and simplification has taken place, yet there is not really a game changer other than speeding up what Google started offering over a decade ago.
+
+Anyway, in the wake of making knowledge even more accessible and even more digestible, I think countries like mine are in a pickle. Our working culture, at least in IT, is quite focused on possessing knowledge. Value is given directly in proportion to how much you happen to know about a given technology, tool, methodology, etc. I come to believe that's driven by the business focus where outsourcing is the breadwinner and certifications are their golden ticket. This to me is quite conflicting since I value potential over domain. I don't dismiss knowledge, I think the more you possess the better are the odds for you to deal with a need, yet I think key skills like the ability to remember, in here, overpowers the ability to learn fast. Now that LLMs have stormed the market, the knowledge volume has been superseded by the ability to challenge concepts and the ability to ask the right kind of questions. So where exactly is my concern here? I think culturally we are not ready to shift our focus and the adoption of these tools will lower further the value of our skills not to say will push the price down or completely annihilate the business models we have in here.
+
+I don't feel bad for such a dire scenario. I think we need to learn to value craftsmanship, innovation and flexibility over any trophy wall. I think shifting our skills towards creating potential is not a small task but the benefits outweigh the challenges. However, I am pessimistic about our adoption speed, I just don't see people focusing on understanding the concepts behind the tools instead, so inventiveness is still "limp" over here.
+
+I wish I could write this in a less critical way and be optimistic about the potential created by the tools that are popping, but paraphrasing an Eastern European philosopher: "there's a light at the end of the tunnel and it is another train coming towards us".
+
 
 ### Simplicity is king in my world (05/25)
 
