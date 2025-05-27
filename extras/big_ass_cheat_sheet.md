@@ -8,6 +8,7 @@ Best For: Exploring all possible solutions while pruning invalid paths.
 
 Example: Generating subsets
 
+```
 def backtrack_subsets(nums):
     def backtrack(start, path):
         result.append(path[:])  # Store subset
@@ -19,6 +20,7 @@ def backtrack_subsets(nums):
     result = []
     backtrack(0, [])
     return result
+```
 
 ✅ Use when:
 
@@ -30,6 +32,7 @@ Solving constraint satisfaction problems (e.g., N-Queens, Sudoku).
 
 Best For: Placing N queens on an NxN chessboard so that no two queens attack each other.
 
+```
 def solve_n_queens(n):
     def is_safe(board, row, col):
         for i in range(row):
@@ -53,6 +56,7 @@ def solve_n_queens(n):
     return result
 
 print(solve_n_queens(4))
+```
 
 ✅ Use when:
 
