@@ -164,7 +164,8 @@ Bit Manipulation: When subset problems involve toggling elements efficiently.
 
 ---
 
-🔹 Common Two-Pointer Patterns & Problems
+## Common Two-Pointer Patterns & Problems
+
 1️⃣ Opposite Direction (Left & Right Pointers)
 
 When to use?
@@ -233,7 +234,6 @@ def hasCycle(head):
 ```
 Time Complexity: O(n), Space Complexity: O(1).
 
-
 3️⃣ Sliding Window (Expanding & Contracting)
 
 When to use?
@@ -243,6 +243,7 @@ When to use?
 Example:
 
 ✅ Smallest Subarray with Sum ≥ Target
+
 ```
 def minSubArrayLen(target, nums):
     left = 0
@@ -258,6 +259,7 @@ def minSubArrayLen(target, nums):
 
     return min_len if min_len != float('inf') else 0
 ```
+
 Time Complexity: O(n), Space Complexity: O(1).
 
 4️⃣ Merging Two Sorted Arrays or Lists
