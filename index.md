@@ -17,7 +17,7 @@ I have been lucky enough to have an education at many levels in many countries a
 
 ---
 
-### The new challenge (05/25)
+### Emerging challenges (05/25)
 
 I struggled on what to write about, mostly because I feel like revisiting a couple of recent events, but I think I can focus on what I'm closer to, thus, I chose my country's situation. Still I will try to touch the second option. I would like to say I am _outraged_ or _disappointed_, but I think the only feeling I have is helplessness from big tech and their “AI everywhere” narrative. Not that their products aren't shinier than ever, especially anything related to entertainment, they mean progress, it is just the direction this progress has taken and what it is costing to all of us what baffles me, not to mention the lack of novelty or the fact that they wrap a dangerous tool with a toy disguise; from my perspective, they are just focused on establishing a platform where they can keep pumping the idea, hoping for a breakthrough to actually come in some kind of serendipitous way. I'm skeptical at best that this is actually going to happen and I scratch my head wondering if artificial general intelligence is really the end goal, why isn't anybody pooling resources to make it happen? I mean, is their greed such that they prefer to try eating the whole pie even if it never comes over just sharing a slice? I think I already know the answer, yet I like to play some naivety for the sake of trying to think that somewhere in the Bay Area, there is a person or two with real ethics doing things with care and trying not to blow up our society as imperfect as it is. I stopped feeling surprised on the fact that AI's impact on people's lives has not been a net positive and I strive for real novelty, but I'm afraid as well of what the consequences mean to most of people lives, so what a conundrum this is, trying to feel enthusiasm for the new technologies while not trying to hide the unsavory truth that we are just being sold smoke and mirrors by people whose only passion is money.
 
@@ -27,7 +27,7 @@ I don't feel bad for such a dire scenario. I think we need to learn to value cra
 
 I wish I could write this in a less critical way and be optimistic about the potential created by the tools that are popping, but paraphrasing a famous Eastern European philosopher: "there's a light at the end of the tunnel and it is another train coming towards us".
 
-### Simplicity is king in my world (05/25)
+### Simplicity and focus are kings in my world (05/25)
 
 I think this title was used in the first entry I added to this page, and well, I am reusing it.
 
@@ -42,8 +42,6 @@ The nerd in me was elated with all these changes, and upgrades and observability
 In the pursuit of what I could do, I lost sight of what I needed to do and what was enough for my needs. I think that's a bad trait from us doing engineering, we let ourselves go from the simplest option ever and pursue what is not even needed because then our goal is no longer getting that piece of work done, but to learn more, try more, use more. Well, that loss of focus costed me 10 hours of my time; yes, I had fun troubleshooting, installing, fixing, configuring, testing; did I learn a couple new tricks? you bet! but in the end it was not really worth it.
 
 So this is it, I ended up re-imaging the damn thing, installing cups, installing the driver it needs, adding a script to a cron job and removing the rest of the array of machines. Was it the simplest option I had? Hell no, I could buy myself a printer with wifi, or just plug the cord into the laptop where I wanted to print, but this one does the trick and costed me 10 minutes of my time, the rest, I give it back to where it matters, spending time with the people I care about.
-
-![printer](https://github.com/user-attachments/assets/d2c2f61a-5e78-473e-8add-501e7974b3de)
 
 ### Yes, you are the 'I' in AI (05/25)
 
