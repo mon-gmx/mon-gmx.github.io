@@ -8,13 +8,6 @@ All opinions I share here are my opinions, I don't mean any harm and my main int
 </div>
 -->
 
-### About me
-
-I have some knowledge in things like Operating Systems Administration, Software Development, Infrastructure Engineering and Site Reliability. All those catchy terms just mean I can deal with computers at a large scale, write code to run them and understand what it takes to keep them running for more than a day.
-I have worked in the financial world, consulting, gaming and recently in the internet industry. I like to meet people although I am not the most extrovert and I like to spend time learning about things related to technology and the industries I work with. I enjoy mentoring and often I end up learning more from others.
-
-I have been lucky enough to have an education at many levels in many countries and continued that streak with my professional life.
-
 ---
 
 ### Using LLMs to code (06/25)
@@ -369,8 +362,9 @@ And just like that, I have kept my SD cards alive for close to two years. Probab
 
 <hr>
 
-### Older entries
+### Other entries
 
+[About me](./archive/about.md)
 [2024](./archive/2024.md)
 
 <div align="right">
@@ -383,3 +377,5 @@ And just like that, I have kept my SD cards alive for close to two years. Probab
       gtag('config', 'G-PW9NV6T54Q');
     </script>
 </div>
+
+
