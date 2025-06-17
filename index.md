@@ -196,6 +196,19 @@ What happens after this?
 
 Well, if you write a good postmortem not only you helped solve a problem, you have good material for your engineering blog, a good tale for your nerd friends or a justification for your eye twitching.
 
+### Circle-jerking industry (04/25)
+
+Back when I was finishing college, there were some certifications around to pick for us: SCJP and CCNA. Cisco certifications were seen like a status symbol, no idea why. Java certifications were what most people were chasing. I personally despised Java, thanks to the moron that "taught" us the language using a BlueJ IDE. So I never felt like trying it and to this day, Java is a big nope for me. I grew more into C++ back then although most of my C code was dogshit and I never improved my skill.
+
+Little I knew, that having a certification was key to getting a job. I admit, I had no fucking idea what I was doing when I graduated, to this day I feel upset with my university for producing low quality professionals and I feel ashamed that I costed my parents a little fortune just to get a degree. Now, I will not delve into the scam an education can be, I think college isn't for everyone and I think there is value in what you learn if it really moves you and if it really aligns with giving you a solid basis rather than chasing fads to justify the cost.
+
+Now, while I could rant and whine here for hours, I want to go back to the certification pursuit non-sense. I would not care about it at this point in my life. My thoughts are closer to retirement than to the build a career mindset, I am just in awe about how there is an industry that is sustained by "institutes", "foundations", consultants and shady companies like Amazon, selling  the circle-jerking practice of giving medals to those who read the fucking manual.
+
+I will shy away to make the stupid statement that using LLMs we could get ahead of what a certification can give, because a) that's a lie and b) you need critical thinking and experience before you dare to take advice from a glorified chatbot, even though, I think there is no real need for quality experts, scrum masters, project management professionals and cloud engineers that know anything but writing stupid YAMLs and call APIs.
+
+Am I just jealous? Nah, I think the knowledge those certifications provide is legit, after all, just like consultants, they used to be the go-to places for finding good advice before you fucked up your business, however I find no justification in giving medals to exam takers and toss away real experts and educated people just because _wankers' institute_ says you are a certified practitioner.
+
+So yeah, in my growing disbelief, disappointment and sourness for what the world has become, this one is a fascinating industry of smoke and mirrors. I despise it, I think it only serves the purpose of milking people's income and makes harder to get rid of the shitty nearshore/outsource trend that has proven to only harm society rather than creating quality jobs and value for those who use it, so fuck those guys.
 
 ### When you open google in your browser (04/25)
 
@@ -298,6 +311,12 @@ So now you know. Tooling is good, but it is trivial, because if you talk site re
 *- Oh this guy forgot to mention toil!*
 
 Nah, automation is fabulous, it eliminates a lot of waste and errors, but arguably, every single link in the delivery chain should have an appetite for not doing the same task twice. So toil reduction should not be something for SRE's only. Feel free to disagree.
+
+### I think I was a DEI hire, and I am fine with it (02/25)
+
+Basically that. Now that I do some retrospective, my time in Silicon Balley was an opportunity that, I believe, I mostly got because of DEI. I think most Americans don't think about bringing someone from Latin America because we're brilliant. Even though I passed all my interviews, they needed a brown person with a different funny accent, thus, they brought me in. I turned out to be committed to do my job (most people are under the right conditions). Yet I think under different circumstances, like the current ones, the only spot for a person like me is moping floors rather than doing "engineering" in an office at the bay area and that's heartbreaking.
+
+Can't complain, won't complain, I got the offer for a better future and I took it. Best job ever, best 5 years ever, I learned a lot, I had a lot of **real** growth, I got quite spoiled and I still miss the life I had for that brief moment.
 
 ### Operations at large scale are complicated, culture is almost impossible (02/25)
 
