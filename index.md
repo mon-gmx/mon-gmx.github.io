@@ -10,7 +10,7 @@ All opinions I share here are my opinions, I don't mean any harm and my main int
 
 ---
 
-### Spiraling (06/25)
+### Spirals (06/25)
 
 I wish I had something interesting to say here, especially something unrelated to LLMs. Unfortunately, I am doing some prep work. One would think that LLMs would be very helpful with preparations by giving us problems, guidance and feedback. I thought the same. The results are catastrophic. So consider this as the part 2 of my previous post: [Using LLMs to code.](https://mon-gmx.github.io/#using-llms-to-code-0625) 
 
@@ -40,6 +40,7 @@ This is a "simple" problem. You get a matrix of size N (`NxN`). Then your progra
 Well, I got these beautiful responses:
 
 ```
+Claude 4 and GPT 4o
 X X X X X X X
 X 0 0 0 0 0 X
 X 0 X X X 0 X
@@ -50,6 +51,7 @@ X X X X X X X
 ```
 
 ```
+# Claude 4
 X X X X X X X
 X X X X X X X
 X X X X X X X
@@ -60,6 +62,7 @@ X X X X X X X
 ```
 
 ```
+GPT 4o
 X X X X X X X
 X 0 0 0 0 0 X
 X 0 X X X 0 X
@@ -69,11 +72,24 @@ X 0 0 0 0 0 X
 X X X X X X X
 ```
 
-In all outputs the model was confident it solved the problem correctly. But I am not here to throw shit at the LLMs. I want to document how these models become actually useful... Well, the results greatly changed when I provided the solution. Then my own inefficiencies were corrected.
+```
+Claude 4
+0 0 0 0 0 0 0
+X X X X X X X
+X X X X X X X
+X X X X X X X
+X X X X X X X
+X X X X X X X
+X X X X X X X
+```
 
-Here's where LLMs can be helpful and should be considered helpful. They cannot show you the way, that's all on you. But they can help you look back and figure out where you could have planned better. So no vibe coding, no intellect replacement, no hallucinated solutions, simply what they do with any other fucking document: Process, simplify, explain.
+In all outputs the models were confident it solved the problem correctly. But I am not here to throw shit at the LLMs. I want to document how these models become actually useful... Well, the results greatly changed when I provided the solution. Then my own inefficiencies were corrected.
 
-[github gist with the solution](https://gist.github.com/mon-gmx/8593fdbb6d619902cb6f48290551edc8)
+I started by presenting a problem and the expected results. Then I tried to tighten it a little bit by giving constraints, expected input and expected output. Then I provided a hint of what the code could be (provided a non-working solution). Once the model started working on the code I started asking about inefficiencies. Here the workflow broke because as I have mentioned before, models tend to stick to the context so if you provide a non-working example, it will try to improve that example without understanding it properly. So I provided a working example with a plethora of inefficiencies. At this point the models focus shifted from trying to fix my code to trying to make it less wasteful; it removed expensive lookups, it added guardrails (not needed, but tried it), it reduced the code complexity. I presented both models with challenges on their decisions and both provided insight, they were not "smart" enough to steer away from the _"You are totally right!"_ answer, but they were actually trying to solve what they could.
+
+LLMs can be helpful and should be considered helpful. They cannot show you the way, that's all on you. But they can help you look back and figure out where you could have planned better. So no vibe coding, no intellect replacement, no hallucinated solutions, simply what they do with any other fucking document: Process, simplify, explain.
+
+[github gist with the "solution"](https://gist.github.com/mon-gmx/8593fdbb6d619902cb6f48290551edc8)
 
 ### Accountability is not coming soon enough to technology (06/25)
 
