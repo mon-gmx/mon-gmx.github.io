@@ -12,9 +12,9 @@ All opinions I share here are my opinions, I don't mean any harm and my main int
 
 ### Spiraling (06/25)
 
-I wish I had something interesting to say here, especially something unrelated to LLMs. Unfortunately, I am doing some prep work. One would think that LLMs would be very helpful with preparations by giving us problems, guidance and feedback. I thought the same. The results are catastrophic. So consider this as the part 2 of my previous post: [Using LLMs to code](https://mon-gmx.github.io/#using-llms-to-code-0625) 
+I wish I had something interesting to say here, especially something unrelated to LLMs. Unfortunately, I am doing some prep work. One would think that LLMs would be very helpful with preparations by giving us problems, guidance and feedback. I thought the same. The results are catastrophic. So consider this as the part 2 of my previous post: [Using LLMs to code.](https://mon-gmx.github.io/#using-llms-to-code-0625) 
 
-I get good insights and good problems from my conversations with ChatGPT (and now with Claude too), but when I try to get insight into things and even solutions, I am the kind of person that tries to take an extra step, that extra step is what any congruent person would do: validate for correctness. Well, the results are demoralizing.
+I get good explanations and good problems from my conversations with ChatGPT (and now with Claude too), but when I try to get insight into things and even solutions, I am the kind of person that tries to take an extra step, that extra step is what any congruent person would do: validate for correctness. Well, the results are demoralizing.
 
 I wish I could write down all my findings and prompts, but I would resume everything with one image:
 
