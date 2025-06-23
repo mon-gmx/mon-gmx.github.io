@@ -10,6 +10,69 @@ All opinions I share here are my opinions, I don't mean any harm and my main int
 
 ---
 
+### Spiraling (06/25)
+
+I wish I had something interesting to say here, especially something unrelated to LLMs. Unfortunately, I am doing some prep work. One would think that LLMs would be very helpful with preparations by giving us problems, guidance and feedback. I thought the same. The results are catastrophic. So consider this as the part 2 of my previous post: [Using LLMs to code](https://mon-gmx.github.io/#using-llms-to-code-0625) 
+
+I get good insights and good problems from my conversations with ChatGPT (and now with Claude too), but when I try to get insight into things and even solutions, I am the kind of person that tries to take an extra step, that extra step is what any congruent person would do: validate for correctness. Well, the results are demoralizing.
+
+I wish I could write down all my findings and prompts, but I would resume everything with one image:
+
+
+```
+0 0 0 0 0 0 0
+0 X X X X X X
+0 X 0 0 0 0 X
+0 X 0 X X 0 X
+0 X 0 0 X 0 X
+0 X X X X 0 X
+0 0 0 0 0 0 X
+```
+
+This is a "simple" problem. You get a matrix of size N (`NxN`). Then your program:
+
+a) Finds the center of the matrix
+b) Fills the matrix with zeroes
+c) Fills the matrix with a spiral that emerges from the center and replaces `0` by `X`
+d) Solves the problem using an O(n²) time complexity
+c) Bonus points if the spiral direction can be switched
+
+Well, I got these beautiful responses:
+
+```
+X X X X X X X
+X 0 0 0 0 0 X
+X 0 X X X 0 X
+X 0 X X X 0 X
+X 0 X X X 0 X
+X 0 0 0 0 0 X
+X X X X X X X
+```
+
+```
+X X X X X X X
+X X X X X X X
+X X X X X X X
+X X X X X X X
+X X X X X X X
+X X X X X X X
+X X X X X X X
+```
+
+```
+X X X X X X X
+X 0 0 0 0 0 X
+X 0 X X X 0 X
+X 0 X 0 X 0 X
+X 0 X X X 0 X
+X 0 0 0 0 0 X
+X X X X X X X
+```
+
+In all outputs the model was confident it solved the problem correctly. But I am not here to throw shit at the LLMs. I want to document how these models become actually useful... Well, the results greatly changed when I provided the solution. Then my own inefficiencies were corrected.
+
+Here's where LLMs can be helpful and should be considered helpful. They cannot show you the way, that's all on you. But they can help you look back and figure out where you could have planned better. So no vibe coding, no intellect replacement, no hallucinated solutions, simply what they do with any other fucking document: Process, simplify, explain.
+
 ### Accountability is not coming soon enough to technology (06/25)
 
 >"You know what's wrong with scientific power?... It's a form of inherited wealth... Most kinds of power require a substantial sacrifice by whoever wants the power. There is an apprenticeship, a discipline lasting many years. Whatever kind of power you want. President of the company. Black belt in karate. Spiritual Guru. Whatever it is you seek, you have to put in the time, the practice, the effort. You must give up a lot to get it. It has to be very important to you. And once you have attained it, it is your power. It can't be given away: it resides in you. It is literally the result of your discipline. Now, what is interesting about this process is that, by the time someone has acquired the ability to kill with his bare hands, he has also matured to the point where he won't use it unwisely. So that kind of power has a built-in control. The discipline of getting the power changes you so that you won't abuse it. But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step... There is no discipline... no mastery: old scientists are ignored. There is no humility before nature... A karate master does not kill people with his bare hands. He does not lose his temper and kill his wife. The person who kills is the person who has no discipline, no restraint, and who has purchased his power in the form of a Saturday night special. And that is the kind of power that science fosters, and permits.”
