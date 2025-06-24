@@ -24,6 +24,7 @@ I wish I could write down all my findings and prompts, but I would resume everyt
 0 X X X X X X
 0 X 0 0 0 0 X
 0 X 0 X X 0 X
+0 X 0 0 X 0 X
 0 X X X X 0 X
 0 0 0 0 0 0 X
 ```
@@ -31,7 +32,6 @@ I wish I could write down all my findings and prompts, but I would resume everyt
 This is a "simple" problem. You get a matrix of size N (`NxN`). Then your program:
 
   - Finds the center of the matrix
-  - ~Fills the matrix with zeroes~
   - Fills the matrix with a spiral that emerges from the center and replaces `0` by `X`
   - Solves the problem using an O(n²) time complexity
   - Bonus points if the spiral direction can be switched
