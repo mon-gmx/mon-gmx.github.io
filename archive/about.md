@@ -8,7 +8,8 @@ I have been lucky enough to have an education at many levels in many countries a
 Things I despise:
 
 * Noise
-* Paywalls
+* Classism
+* Leetcode
 * Pay to win
 * Politicians
 * Boilerplate
