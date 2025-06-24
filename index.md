@@ -24,7 +24,6 @@ I wish I could write down all my findings and prompts, but I would resume everyt
 0 X X X X X X
 0 X 0 0 0 0 X
 0 X 0 X X 0 X
-0 X 0 0 X 0 X
 0 X X X X 0 X
 0 0 0 0 0 0 X
 ```
