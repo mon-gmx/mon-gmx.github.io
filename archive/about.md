@@ -16,8 +16,8 @@ Things I despise:
 * Gig economies
 * Tolls and parkinglots
 * Quotas on Internet use
+* Subscription models
 * Programmed obsolescence
-* Subscriptions to features
 * Any document behind a QR code
 * Upgrades, DLCs and tiered goods
 * Consulting groups selling certifications
@@ -29,6 +29,6 @@ Things I love:
 * Rain
 * Music
 * Plants
-* Languages
 * Simplicity
+* Languages
 * Handcrafted items
