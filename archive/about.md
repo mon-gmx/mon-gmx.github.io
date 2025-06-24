@@ -10,13 +10,13 @@ Things I despise:
 * Noise
 * Classism
 * Leetcode
-* Pay to win
 * Politicians
+* Pay to win
 * Boilerplate
 * Gig economies
+* Subscription models
 * Tolls and parkinglots
 * Quotas on Internet use
-* Subscription models
 * Programmed obsolescence
 * Any document behind a QR code
 * Upgrades, DLCs and tiered goods
