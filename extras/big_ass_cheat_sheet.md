@@ -317,7 +317,7 @@ Steps:
     - Add the current element to `current_sum`.
     - If `current_sum` is greater than `max_sum`, update `max_sum`.
     - If `current_sum` becomes negative, reset it to `0`.
-3. Return max_sum.
+3. Return `max_sum`.
 
 ```
 def kadane(arr):
