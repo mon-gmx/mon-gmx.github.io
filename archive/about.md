@@ -14,6 +14,7 @@ Things I despise:
 * Pay to win
 * Boilerplate
 * Gig economies
+* Corporate culture
 * Subscription models
 * Tolls and parkinglots
 * Quotas on Internet use
