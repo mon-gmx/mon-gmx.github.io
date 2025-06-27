@@ -311,7 +311,7 @@ Time Complexity: O(n + m), Space Complexity: O(1).
 Steps:
 
 1. Initialize:
-    - max_sum = `-inf` (or `float('-inf')` in Python)
+    - `max_sum = -inf` (or `float('-inf')` in Python)
     - `current_sum = 0`
 2. Iterate through the array:
     - Add the current element to `current_sum`.
