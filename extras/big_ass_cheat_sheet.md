@@ -310,14 +310,14 @@ Time Complexity: O(n + m), Space Complexity: O(1).
 
 Steps:
 
-    1. Initialize:
-        - max_sum = `-inf` (or `float('-inf')` in Python)
-        - `current_sum = 0`
-    2. Iterate through the array:
-        - Add the current element to `current_sum`.
-        - If `current_sum` is greater than `max_sum`, update `max_sum`.
-        - If `current_sum` becomes negative, reset it to `0`.
-    3. Return max_sum.
+1. Initialize:
+    - max_sum = `-inf` (or `float('-inf')` in Python)
+    - `current_sum = 0`
+2. Iterate through the array:
+    - Add the current element to `current_sum`.
+    - If `current_sum` is greater than `max_sum`, update `max_sum`.
+    - If `current_sum` becomes negative, reset it to `0`.
+3. Return max_sum.
 
 ```
 def kadane(arr):
@@ -381,7 +381,7 @@ def kadane(arr):
 
 |Name|Description|When to Use|When Not to Use|Where It Is Used|Python Implementation|
 |----|-----------|-----------|---------------|---------------|---------------------|
-|**Round Robin**|Distributes requests evenly across all servers in sequence.|When all servers have equal capacity and performance.|When servers have varying workloads or performance levels.|DNS load balancing, simple web server clusters.|servers = ["A", "B", "C"]; i = 0; def get_server(): global i; server = servers[i % len(servers)]; i += 1; return server|
+|**Round Robin**|Distributes requests evenly across all servers in sequence.|When all servers have equal capacity and performance.|When servers have varying workloads or performance levels.|DNS load balancing, simple web server clusters.|`servers = ["A", "B", "C"]; i = 0; def get_server(): global i; server = servers[i % len(servers)]; i += 1; return server`|
 |**Weighted Round Robi**n|Assigns different weights to servers based on capacity.|When servers have different processing power or bandwidth.|When traffic patterns are highly dynamic.|Cloud load balancers, CDNs.|`weights = [3, 2, 1]; servers = ["A", "B", "C"]; from itertools import cycle; weighted_servers = sum([[s] * w for s, w in zip(servers, weights)], []); server_cycle = cycle(weighted_servers); def get_server(): return next(server_cycle)`|
 |**Least Connections**|Routes requests to the server with the fewest active connections.|When some requests require long processing times.|When all requests are short-lived and equal in complexity.|API gateways, microservices.|`import random; connections = {"A": 2, "B": 5, "C": 1}; def get_server(): return min(connections, key=connections.get)`|
 |**IP Hashing**|Assigns a client to a specific server based on their IP address.|When session persistence is needed.|When IP-based load balancing is unnecessary or unfair.|Gaming servers, user authentication services.|`import hashlib; servers = ["A", "B", "C"]; def get_server(ip): return servers[int(hashlib.md5(ip.encode()).hexdigest(), 16) % len(servers)]`|
