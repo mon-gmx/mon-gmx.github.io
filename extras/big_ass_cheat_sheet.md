@@ -152,15 +152,15 @@ Dealing with subset problems efficiently.
 
 Problems involving toggling elements (e.g., bitmask DP).
 
-🔑 Rule of Thumb Summary
+### Rule of Thumb Summary
 
-Backtracking: When exploring all possibilities with pruning (e.g., subsets, N-Queens).
+  - Backtracking: When exploring all possibilities with pruning (e.g., subsets, N-Queens).
 
-DFS: When searching deep or solving recursive problems (e.g., connected components, islands).
+  - DFS: When searching deep or solving recursive problems (e.g., connected components, islands).
 
-BFS: When finding shortest paths or processing in layers (e.g., shortest path problems).
+  - BFS: When finding shortest paths or processing in layers (e.g., shortest path problems).
 
-Bit Manipulation: When subset problems involve toggling elements efficiently.
+  - Bit Manipulation: When subset problems involve toggling elements efficiently.
 
 ---
 
@@ -199,18 +199,18 @@ If there's a need to find cycles (e.g., in linked lists).
 
 Example:
 
-✅ Remove Duplicates from Sorted Array
+✅ Count unique items from Sorted Array
 
 ```
-def removeDuplicates(nums):
-if not nums:
-    return 0
-slow = 0  # This will point to the last unique element
-for fast in range(1, len(nums)):
-    if nums[fast] != nums[slow]:  
-        slow += 1
-        nums[slow] = nums[fast]  
-return slow + 1  # Return new length
+def countNoDuplicates(nums):
+    if not nums:
+        return 0
+    slow = 0  # This will point to the last unique element
+    for fast in range(1, len(nums)):
+        if nums[fast] != nums[slow]:  
+            slow += 1
+            nums[slow] = nums[fast]  
+    return slow + 1  # Return new length
 ```
 
 Time Complexity: O(n), Space Complexity: O(1).
@@ -290,15 +290,13 @@ def merge(nums1, m, nums2, n):
 
 Time Complexity: O(n + m), Space Complexity: O(1).
 
-🔥 When Not to Use Two Pointers
+### When Not to Use Two Pointers
 
-🚫 When the input is not sorted and sorting doesn’t help
+  - When the input is not sorted and sorting doesn’t help
+  - When you need all possible pairs (brute force may be needed)
+  - When you require backtracking or more complex recursion
 
-🚫 When you need all possible pairs (brute force may be needed)
-
-🚫 When you require backtracking or more complex recursion
-
-🎯 Summary Cheat Sheet
+### Summary Cheat Sheet
 
 |Pattern|Use Case|Example|
 |-----------|-----------|-------|
@@ -308,7 +306,7 @@ Time Complexity: O(n + m), Space Complexity: O(1).
 |**Merge Pointers**|Merge two sorted lists efficiently	|Merge Sorted Arrays|
 
 
-Kadane’s Algorithm (Maximum Subarray Sum)
+## Kadane’s Algorithm (Maximum Subarray Sum)
 
 Steps:
 
