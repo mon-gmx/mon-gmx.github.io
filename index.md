@@ -492,16 +492,3 @@ And just like that, I have kept my SD cards alive for close to two years. Probab
 [[About me]](./archive/about.md)
 [[2024]](./archive/2024.md)
 
-<div align="right">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PW9NV6T54Q"></script>
-    <!-- added for measuring visits only -->
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-PW9NV6T54Q');
-    </script>
-</div>
-
-
-
