@@ -1,13 +1,5 @@
 All opinions I share here are my opinions, I don't mean any harm and my main interest is to vent out and well, share whatever is going on with my day to day, so yes, eventually I contradict myself.
 
-<!--
-<div align="right">
-  <small>
-    <i>If you're still reading, my title is not misrendering and your visit is a datapoint in GA4, I promise that's all I collect.</i>
-  </small>
-</div>
--->
-
 ---
 
 ### Open Source (07/25)
@@ -100,7 +92,11 @@ I started by presenting a problem and the expected results. Then I tried to tigh
 
 LLMs can be helpful and should be considered helpful. They cannot show you the way, that's all on you. But they can help you look back and figure out where you could have planned better. So no vibe coding, no intellect replacement, no hallucinated solutions, simply what they do with any other fucking document: Process, simplify, explain.
 
-[- github gist with my solution](https://gist.github.com/mon-gmx/8593fdbb6d619902cb6f48290551edc8)
+<sub>
+  <a href="https://gist.github.com/mon-gmx/8593fdbb6d619902cb6f48290551edc8" target="_blank">
+    github gist with my solution
+  </a>
+</sub>
 
 ### Accountability is not coming soon enough to technology (06/25)
 
