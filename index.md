@@ -100,7 +100,7 @@ I started by presenting a problem and the expected results. Then I tried to tigh
 
 LLMs can be helpful and should be considered helpful. They cannot show you the way, that's all on you. But they can help you look back and figure out where you could have planned better. So no vibe coding, no intellect replacement, no hallucinated solutions, simply what they do with any other fucking document: Process, simplify, explain.
 
-[- github gist with the "solution"](https://gist.github.com/mon-gmx/8593fdbb6d619902cb6f48290551edc8)
+[- github gist with my solution](https://gist.github.com/mon-gmx/8593fdbb6d619902cb6f48290551edc8)
 
 ### Accountability is not coming soon enough to technology (06/25)
 
