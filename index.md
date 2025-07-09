@@ -19,6 +19,7 @@ I would prepare a list of my short stints, but I am doing something different th
 
   >🚩 1. "More money, less commute" trap – with zero actual work or stimulation
   >(2011): You left a job you loved for better pay and less commute, but landed in a dead-end environment where nothing moved, enthusiasm died, and you spent your days waiting for vague orders.
+  >
   >How to spot it:
   >
   >Ask how onboarding is structured. Vague or noncommittal answers? Red flag.
@@ -30,6 +31,7 @@ I would prepare a list of my short stints, but I am doing something different th
   >
   >🚩 2. Leadership roles in toxic, political power struggles
   >(2011): Took a management role, but found yourself in the middle of political landmines, blocked from real progress — and topped with a breach.
+  >
   >How to spot it:
   >
   >In interviews, ask: “How does your leadership handle conflict?”
@@ -52,6 +54,7 @@ I would prepare a list of my short stints, but I am doing something different th
   >
   >🚩 4. Remote in name, isolated in practice — with disappearing leadership
   >(2024): Joined a "remote" company that left you completely disconnected, and when your manager got pushed out, the team floundered with no direction.
+  >
   >How to spot it:
   >
   >Ask: “How do you keep remote teams aligned and supported?”
@@ -62,6 +65,7 @@ I would prepare a list of my short stints, but I am doing something different th
   >
   >🚩 5. Misaligned time zones with no operational foresight
   >(2025): Ended up in a DevOps role operating out of India time, while support was needed during Western hours — you were either sleep-deprived or completely irrelevant.
+  >
   >How to spot it:
   >
   >Ask: “What hours do teams operate in, and how are escalations handled?”
@@ -72,6 +76,7 @@ I would prepare a list of my short stints, but I am doing something different th
   >
   >🚩 6. Cultural mismatch + exploitative practices
   >(2025): Hoped for mentorship but landed in a toxic, extractive culture. Poor reputation, bad habits, and disregard for well-being.
+  >
   >How to spot it:
   >
   >Ask about mentoring and coaching programs — and request examples.
