@@ -81,7 +81,7 @@ I would prepare a list of my short stints, but I am doing something different th
   >
   >How to spot it:
   >
-  >Ask about mentoring and coaching programs — and request examples.
+  >Ask about mentoring and coaching programs, and request examples.
   >
   >Ask: “How does this company invest in employee growth?”
   >If they offer vague answers about culture, assume you’ll be entering a factory, not a community.
