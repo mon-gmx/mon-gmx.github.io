@@ -1,23 +1,25 @@
 All opinions I share here are my opinions, I don't mean any harm and my main interest is to vent out and well, share whatever is going on with my day to day, so yes, eventually I contradict myself.
 
 <sub>
-_Update (07/2025): I just removed GTags from this page. I liked to track visits, mostly to understand the source of my traffic, but I get Google feels like knowing more about your habits, so respecting the 1 or maybe 2 readers I have and their privacy, all tracking is gone. Do you feel like getting in contact? Drop me a message either via <a href="https://github.com/mon-gmx/mon-gmx.github.io/issues" target="_blank">GitHub</a> creating an issue, or at <a href="https://www.linkedin.com/in/ramonfierro/" target="_blank">LinkedIn</a> if you prefer._
+_Update (07/2025): I just removed gtags from this page. I wanted to track visits, mostly to understand the source of my traffic, but I get Google feels like knowing more about your habits (an uncomfortable amount of "more"), so respecting the 1 or maybe 2 readers I have and their privacy, all tracking is gone. Do you feel like getting in contact? Drop me a message either via <a href="https://github.com/mon-gmx/mon-gmx.github.io/issues" target="_blank">GitHub</a> creating an issue, or at <a href="https://www.linkedin.com/in/ramonfierro/" target="_blank">LinkedIn</a> if you prefer._
 </sub>
 
 ---
 
 ### The painful act of quitting (07/25)
 
-I would proudly start this post by saying that I have never been fired. In another time this would should like a big achievement, **to me it is just a mix of good judgement when choosing to leave after a very poor judgement when choosing to join**. Through my professional life I have been lucky to join multiple industries and multiple teams and I am confident no team was poorly skilled, on the contrary, every single team I joined had brilliant people to learn from, no exceptions.
+I would proudly start this post by saying that I have never been fired. In another time this would sound like a big achievement, **to me it is just a mix of good judgement when choosing to leave after a very poor judgement when choosing to join**. Through my professional life I have been lucky to join multiple industries and multiple teams and I am confident no team was poorly skilled, on the contrary, every single team I joined had brilliant people to learn from, no exceptions.
 I wish I could say the same on the chain of command, and probably they are brilliant at their own thing, sadly, sometimes their own thing was fucking up the employees.
 
-To anyone looking at my profile or my resume, I can divide my experience in two groups: long term commitment, and short stints a.k.a. fuck ups. I could give insight on the fuck ups trying to justify why they didn't work for me, but I must own my mistakes and state this was all on me: **Fueled by the desperation of getting employed, I didn't spend enough time trying to figure out whether the place was right for me and if I would fit in**. Culture matters and it matters a lot, not fitting is a troubling situation where you better hope you don't find that out while stranded in New York City asking yourself, what now? (true story). Choosing to leave is never a thing that happens in an instant, but personally, gathering the courage to do so, is something that has happened in an instant, and with a clear understanding that the coming days would become a hassle, I still have vouched for my own peace of mind and take the painful step of saying "_enough!_".
+To anyone looking at my profile or my resume, I can divide my experience in two groups: long term commitment, and short stints a.k.a. fuck ups. The first group I can list them clearly, those are my proudest moments, the second one, I barely speak about it. I could give insight on the fuck ups trying to justify why they didn't work for me, but I must own my mistakes and state this was all on me: **Fueled by the desperation of getting employed, I didn't spend enough time trying to figure out whether the place was right for me and if I would fit in**. Culture matters and it matters a lot, not fitting is a troubling situation where you better hope you don't find that out while stranded in New York City asking yourself, what now? (true story). 
 
-Cultural fit is a complicated topic we don't spend enough time analyzing, either because we don't understand it, or because leadership shakes it so often that we don't even know what is it today. But I dare to question if this is the only setback that eventually ousted me, and well, the answer is no: environment is another factor that has trashed the excitement of joining something new at a blazing speed. Unfortunately cultural fit for a candidate is not easier to validate, all you can see, is what your interviewer is willing to show, and unless you've been around for some time, you wont pick up any _red flags_ during a 40 minutes conversation. Am I trying to offer some advice here or just whining like a bitch? Well, let me try to drop some experience and see if we can spot those flags.
+Choosing to leave is never a thing that happens in an instant, but personally, gathering the courage to do so, is something that has happened in an instant, and with a clear understanding that the coming days would become a hassle, I still have vouched for my own peace of mind and taken the painful step of saying "_that's enough!_".
+
+Cultural fit is a complicated topic we don't spend enough time analyzing, either because we don't understand it, or because leadership shakes it so often that we don't even know what is it today. But I dare to question if this is the only setback that eventually ousted me, and well, the answer is no; **environment** is another factor that has trashed the excitement of joining something new at a blazing speed. Unfortunately cultural fit for a candidate is not easier to validate, all you can see, is what your interviewer is willing to show, and unless you've been around for some time, you wont pick up any _red flags_ during a 40 minutes conversation. Am I trying to offer some advice here or just whining like a bitch? Well, let me try to drop some experience and see if we can spot those flags.
 
 I would prepare a list of my short stints, but I am doing something different this time and asking a generative AI to summarize what made painful these experiences and what are the red flags... since we love AI (each person their own way) I think we could get some suggestions, so let's read on.
 
-  >🚩 1. "More money, less commute" trap – with zero actual work or stimulation
+  >🚩 1. "More money, less commute" trap, with zero actual work or stimulation
   >(2011): You left a job you loved for better pay and less commute, but landed in a dead-end environment where nothing moved, enthusiasm died, and you spent your days waiting for vague orders.
   >
   >How to spot it:
@@ -27,20 +29,20 @@ I would prepare a list of my short stints, but I am doing something different th
   >Ask: “What will my first month look like?” If there’s no clarity, assume chaos.
   >Look up employee reviews on how fast teams execute.
   >
-  >If the office environment looks dead or outdated during an onsite — believe your eyes.
+  >If the office environment looks dead or outdated during an onsite, believe your eyes.
   >
   >🚩 2. Leadership roles in toxic, political power struggles
-  >(2011): Took a management role, but found yourself in the middle of political landmines, blocked from real progress — and topped with a breach.
+  >(2011): Took a management role, but found yourself in the middle of political landmines, blocked from real progress, and topped with a breach.
   >
   >How to spot it:
   >
   >In interviews, ask: “How does your leadership handle conflict?”
   >
-  >Dig for examples of cross-team collaboration — are they proud of them, or do they hesitate?
+  >Dig for examples of cross-team collaboration, are they proud of them, or do they hesitate?
   >
-  >If the interviewers are defensive or evasive when discussing team structure, that’s not a mistake — that’s your preview.
+  >If the interviewers are defensive or evasive when discussing team structure, that’s not a mistake, that’s your preview.
   >
-  >🚩 3. Smart people, but toxic culture — no psychological safety
+  >🚩 3. Smart people, but toxic culture, no psychological safety
   >(2018): Joined an exciting international team, but the culture was demeaning and competitive to a fault. You were out within a week.
   >
   >How to spot it:
@@ -50,9 +52,9 @@ I would prepare a list of my short stints, but I am doing something different th
   >Ask: “What happens when someone disagrees with a technical decision?”
   >If there’s too much talk about IQ and not enough about collaboration, you’re headed into a prestige trap.
   >
-  >During meetups or calls, watch how people treat newcomers or non-native speakers — that’s you soon.
+  >During meetups or calls, watch how people treat newcomers or non-native speakers, that’s you soon.
   >
-  >🚩 4. Remote in name, isolated in practice — with disappearing leadership
+  >🚩 4. Remote in name, isolated in practice, with disappearing leadership
   >(2024): Joined a "remote" company that left you completely disconnected, and when your manager got pushed out, the team floundered with no direction.
   >
   >How to spot it:
@@ -64,7 +66,7 @@ I would prepare a list of my short stints, but I am doing something different th
   >If “remote” means “you figure it out yourself,” run.
   >
   >🚩 5. Misaligned time zones with no operational foresight
-  >(2025): Ended up in a DevOps role operating out of India time, while support was needed during Western hours — you were either sleep-deprived or completely irrelevant.
+  >(2025): Ended up in a DevOps role operating out of India time, while support was needed during Western hours, you were either sleep-deprived or completely irrelevant.
   >
   >How to spot it:
   >
@@ -84,9 +86,9 @@ I would prepare a list of my short stints, but I am doing something different th
   >Ask: “How does this company invest in employee growth?”
   >If they offer vague answers about culture, assume you’ll be entering a factory, not a community.
 
-I find this format and the advice to be powerful, I had, however, to clean up some of the lines. Suggesting me to go to places like Glassdoor or Teamblind, would not only not work in my country, but we know Glassdoor has been "breached" by the corporative minds, and the anonymity and will to exhibit bad actors has been stripped away. Disregard, one important take away from this list is: Ask more people. **Be inquisitive beyond that 40 minutes conversation, ask for a little bit more, because you might end up being asked for far a lot more**.
+I find this format and the advice to be powerful, I had, however, to clean up some of the lines. Suggesting me to go to places like Glassdoor or Teamblind, would not only not work in my country, but we know Glassdoor has been "breached" by the corporative minds, and the anonymity and will to exhibit bad actors has been stripped away. Disregard, one important take away from this list is: Ask more questions to different people. **Be inquisitive beyond that 40 minutes conversation, ask for a little bit more, because you might end up being asked for far a lot more**.
 
-I think a big differentiator between giving up the short stints and the long term commitments is cultural shifts, Any place I've been for longer than a couple years has been a place I really loved, either the team, the dynamic, the outcome, you name it, it has been great until culture changed, I dare to add an exception and it was related to the fact that in Mexico it was quite simple to neglect a worker's rights, thus, staying there was a ticking bomb (thinking about retirement). I think I have read plenty of renown CEOs saying that changing culture can be devastating for the workforce, I could not agree more, I think however the ongoing set of _Bozos_ running the show today didn't get the memo; had this not happened in my past job, I would probably still be living in California, sadly, one of the very first things that started back in 2021 was a demolition act followed by a chain of command with their mouth full of buzzwords and their brains full of Amazonian culture, quite an ominous situation.
+I think a big differentiator between giving up the short stints and the long term commitments is cultural shifts, Any place I've been for longer than a couple years has been a place I really loved, either the team, the dynamic, the outcome, you name it, it has been great until culture changed, I dare to add a couple exceptions and it was due to the fact that in Mexico it was quite simple to neglect a worker's rights, thus, staying there was a ticking bomb (thinking about retirement), disregard, my years around were fulfilling ones. I think I have read plenty of renown CEOs saying that changing culture can be devastating for the workforce, I could not agree more, I think however the ongoing set of _Bozos_ running the show today didn't get the memo; had this not happened in my past job, I would probably still be living in California, sadly, one of the very first things that started back in 2021 was a demolition act followed by a chain of command with their mouth full of buzzwords and their hearts full of Jassy (🤮) quite an ominous combo.
 
 ### Open Source (07/25)
 
