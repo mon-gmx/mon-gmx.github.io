@@ -17,7 +17,7 @@ Choosing to leave is never a thing that happens in an instant, but personally, g
 
 Cultural fit is a complicated topic we don't spend enough time analyzing, either because we don't understand it, or because leadership shakes it so often that we don't even know what is it today. But I dare to question if this is the only setback that eventually ousted me, and well, the answer is no; **environment** is another factor that has trashed the excitement of joining something new at a blazing speed. Unfortunately cultural fit for a candidate is not easier to validate, all you can see, is what your interviewer is willing to show, and unless you've been around for some time, you wont pick up any _red flags_ during a 40 minutes conversation. Am I trying to offer some advice here or just whining like a bitch? Well, let me try to drop some experience and see if we can spot those flags.
 
-I would prepare a list of my short stints, but I am doing something different this time and asking a generative AI to summarize what made painful these experiences and what are the red flags... since we love AI (each person their own way) I think we could get some suggestions, so let's read on.
+I would prepare a list of my short stints, but I am doing something different this time... since we love AI (ha! had to leave room for a joke here) I think we could get some suggestions, so let's read on.
 
   >🚩 1. "More money, less commute" trap, with zero actual work or stimulation
   >(2011): You left a job you loved for better pay and less commute, but landed in a dead-end environment where nothing moved, enthusiasm died, and you spent your days waiting for vague orders.
@@ -174,7 +174,7 @@ X X X X X X X
 X X X X X X X
 ```
 
-In all outputs the models were confident it solved the problem correctly. But I am not here to throw shit at the LLMs. I want to document how these models become actually useful... Well, the results greatly changed when I provided the solution. Then my own inefficiencies were corrected.
+In all outputs the models were confident they solved the problem correctly. But I am not here to throw shit at the LLMs. I want to document how these models become actually useful... Well, the results greatly changed when I provided the solution. Then my own inefficiencies were corrected.
 
 I started by presenting a problem and the expected results. Then I tried to tighten it a little bit by giving constraints, expected input and expected output. Then I provided a hint of what the code could be (provided a non-working solution). Once the model started working on the code I started asking about inefficiencies. Here the workflow broke because as I have mentioned before, models tend to stick to the context so if you provide a non-working example, it will try to improve that example without understanding it properly. So I provided a working example with a plethora of inefficiencies. At this point the models’ focus shifted from trying to fix my code to trying to make it less wasteful; it removed expensive lookups, it added guardrails (not needed, but tried it), it reduced the code complexity. I presented both models with challenges on their decisions and both provided insight. They were not "smart" enough to steer away from _"You are totally right!"_ answer, but they were actually trying to solve what they could.
 
