@@ -1,9 +1,5 @@
 All opinions I share here are my opinions, I don't mean any harm and my main interest is to vent out and well, share whatever is going on with my day to day, so yes, eventually I contradict myself.
 
-<sub>
-_Update (07/2025): I just removed gtags from this page. I wanted to track visits, mostly to understand the source of my traffic, but I get Google feels like knowing more about your habits (an uncomfortable amount of "more"), so respecting the 1 or maybe 2 readers I have and their privacy, all tracking is gone. Do you feel like getting in contact? Drop me a message either via <a href="https://github.com/mon-gmx/mon-gmx.github.io/issues" target="_blank">GitHub</a> creating an issue, or at <a href="https://www.linkedin.com/in/ramonfierro/" target="_blank">LinkedIn</a> if you prefer._
-</sub>
-
 ---
 
 ### The painful act of quitting (07/25)
