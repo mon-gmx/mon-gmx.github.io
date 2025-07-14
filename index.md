@@ -2,6 +2,16 @@ All opinions I share here are my opinions, I don't mean any harm and my main int
 
 ---
 
+### Where value really is, or why you should read the papers and not the keynotes (07/25)
+
+People claim that big tech and overall the tech industry is going through a period of stagnation. That inventive is dry and that everything is AI nowadays. While there is a lot of truth there, I think we should not be oblivious to the fact that headers like always are written to create scandal, to cause panic, to draw attention. Papers on the other side, are too technical, too boring, too complex... except that there's the real meat.
+
+While headers and keynotes are the kibble that big tech uses to build hype for their useless plethora of unfinished products, papers and even tech blogs hold the real value and are the gauge to understand what the fuck is going on inside those places. I use big tech in my starting paragraph, but this is something that could be applied anywhere where research and problem solving is happening.
+
+You see, dropping a keynote or a headline requires beautiful wrapping, it needs to build excitement, it needs to be simplified, it needs to be easy to digest, even for the most stupid kind of people, thus, it may sound sophisticated but in reality it cannot present progress unless that's for sale. We never saw a keynote for consensus algorithms just like we never saw a keynote for transformers or geo-spatial databases, but they have truly changed the world and the technology we use. I think we often find more comfort in saying that inventive is dead and continue to the masturbation of reading a feed where all ideas converge to ours except that we turn oblivious to the progress that keeps happening. I think we should not. Headlines are exploitative of sentiment, but they barely scratch the surface on what is really going on in the technology world. We cannot figure how things are really going (not how they are being sold), and where progress is happening unless we resource to where knowledge and progress is happening. Looking at tech writing and papers has a second advantage, no matter how hard it is to read, the information is there, it has no veil on top because we nerds love sharing and showing off, we don't care if it sells, we want the world to see progress. Here is a tip worth of the times: LLM's can summarize and make things readable for our intellect.
+
+I am not closing this entry, but leaving this in to be continued (my chores demand I run away...)
+
 ### The painful act of quitting (07/25)
 
 I would proudly start this post by saying that I have never been fired. In another time this would sound like a big achievement, **to me it is just a mix of good judgement when choosing to leave after a very poor judgement when choosing to join**. Through my professional life I have been lucky to join multiple industries and multiple teams and I am confident no team was poorly skilled, on the contrary, every single team I joined had brilliant people to learn from, no exceptions.
